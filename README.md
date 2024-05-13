@@ -1,4 +1,4 @@
-#Android Uygulaması
+# Android_uygulaması
 
 Projenin raporunu aşağıdaki pdften ulaşabilirsiniz. Ayrıca UI tasarımı da pdf'e eklenmiştir. Uygulama Java ile kodlanmıştır.
 
