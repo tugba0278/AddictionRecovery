@@ -171,7 +171,7 @@ public class AlcoholAddictionTest2Page extends AppCompatActivity {
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
             builder.setTitle("Your Score");
             builder.setMessage("Total score: " + score);
-            builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            builder.setNegativeButton("OK", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
                     // Dialog kapatıldığında yapılacak işlemler
