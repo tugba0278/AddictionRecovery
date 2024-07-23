@@ -1,0 +1,122 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AddictionRecovery" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorBackgroundFloating">@color/toolbar_background</item>
+    </style>
+
+    <style name="Theme.AddictionRecovery" parent="Base.Theme.AddictionRecovery" />
+
+    <style name="welcome_speech_style">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#50623A</item>
+
+    </style>
+
+    <style name="loginPageButtons">
+        <item name="android:background">@color/login_buttons</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="title_style">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FBF3D5</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">4</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="feedback_style">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/alt_toolbar_icon_color</item>
+        <item name="hintTextColor">#BBAB8C</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="general_addiction_content_style1">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/general_addiction_title_color</item>
+
+    </style>
+
+    <style name="general_addiction_test_grid_style">
+        <item name="android:textColor">@color/general_addiction_test_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+
+    </style>
+
+    <!--- Substance Addiction Styles -->
+    <style name="subs_main_title">
+       <item name="android:textColor">@color/subs_addiction_homepage_txt_color</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="subs_main_contents">
+        <item name="android:textColor">@color/subs_addiction_homepage_txt_color</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="subs_warning_text">
+        <item name="android:textColor">@color/subs_addiction_homepage_txt_color</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="subs_addiction_test_grid_style">
+        <item name="android:textColor">@color/subs_addiction_test_text_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!--- Technology Addiction Styles -->
+    <style name="tech_main_title">
+        <item name="android:textColor">@color/tech_addiction_homepage_txt_color</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="tech_main_contents">
+        <item name="android:textColor">@color/tech_addiction_homepage_txt_color</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="tech_warning_text">
+        <item name="android:textColor">@color/tech_addiction_homepage_txt_color</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="tech_addiction_test_grid_style">
+        <item name="android:textColor">@color/tech_addiction_grid_text_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!--- Alcohol Addiction-->
+    <style name="alcohol_addiction_titles_style">
+        <item name="android:textColor">@color/alcohol_addiction_title_color</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="alcohol_addiction_content_style">
+        <item name="android:textColor">@color/alcohol_addiction_content_color</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="alcohol_addiction_grid_style">
+        <item name="android:textColor">@color/app_pages_bg</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="alcohol_addiction_warning_style">
+        <item name="android:textColor">@color/alcohol_addiction_warning_txt_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="alcohol_addiction_test_grid_style">
+        <item name="android:textColor">@color/alcohol_addiction_test_content_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>

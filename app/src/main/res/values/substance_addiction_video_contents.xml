@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="substance_addiction_video_titles">
+        <item>"This Is What Happens to Your Brain on Opioids | Short Film Showcase"</item>
+        <item>"Mechanism of Drug Addiction in the Brain, Animation."</item>
+        <item>"Madde Bağımlılığı Nedir? Zararları Nelerdir?"</item>
+        <item>"Uyarıcı ve Uyuşturucu Maddeler Hakkında Bilgiler"</item>
+        <item>"Bağımlılık - Kurzgesagt"</item>
+        <item>"Bağımlılık ve Beyin - Çocuklar İçin"</item>
+        <item>"Bağımlılık Beyni Nasıl Değiştirir?"</item>
+        <item>"Madde bağımlılığı nasıl tedavi edilmeli?"</item>
+        <item>"Sınava dopingle hazırlananlar: Gençlerde madde bağımlılığı tehlikesi"</item>
+        <item>"Madde Bağımlılarının Aileleri Ne Yapmalı? | Prof. Dr. Kültegin Ögel"</item>
+        <item>"Madde Nasıl Teklif Edilir? Uzak Durmak İçin Ne Yapılabilir?"</item>
+        <item>"Madde Kullanımı Tedavisi"</item>
+        <item>"Bağımlılığa Ne Sebep Olur ve Tedavisi Neden Çok Zordur? - Judy Grisel"</item>
+
+    </string-array>
+    <string-array name="substance_addiction_video_ids">
+        <item>"NDVV_M__CSI"</item>
+        <item>"NxHNxmJv2bQ"</item>
+        <item>"145s3NCuLxc"</item>
+        <item>"s6FKGMBQ9pA"</item>
+        <item>"tdJAQZxJ6vY"</item>
+        <item>"s0bqT_hxMwI"</item>
+        <item>"iXid3U-2WWk"</item>
+        <item>"9a7TvHWrk6c"</item>
+        <item>"M4ZBsM_a6pA"</item>
+        <item>"J9I3P_cTqOU"</item>
+        <item>"Ww5EdFDAB6w"</item>
+        <item>"aTS5OW85Og4"</item>
+        <item>"hBC7i-vHWsU"</item>
+
+    </string-array>
+    <string-array name="substance_addiction_video_descriptions">
+        <item>
+            "Opioid bağımlılığının yol açtığı aşırı dozda uyuşturucu, şu anda Amerika Birleşik Devletleri'nde kaza sonucu ölümlerin önde gelen nedenidir."
+        </item>
+        <item>
+            "Madde bağımlılığın beynimize etki mekanizmasını anlatan eğitici bir animasyon"
+        </item>
+        <item>
+            "TBM Yeşilay tarafından geliştirilen teknoloji, tütün, alkol ve madde bağımlılıkları konusunda başta çocuklar ve gençler olmak üzere toplumun tamamını bilgilendirmeyi amaçlayan programıdır."
+        </item>
+        <item>
+            "Uyarıcı ve uyuşturucu maddelerin tüketimi ve zararları konusunu, Üsküdar Üniversitesi NPİSTANBUL Beyin Hastanesi'nden Doç. Dr. Onur Noyan anlattı."
+        </item>
+        <item>"Bağımlılık hakkında etkili ve bilgilendirici bir animasyon"</item>
+        <item>"Bağımlılığın nasıl geliştiğini açıklayan, kısa ve öz bir animasyon film."</item>
+        <item>"Bağımlılık beyni fiziksel olarak değiştiren bir hastalıktır - tıpkı diğer kronik hastalıklar gibi tedavi ve sürekli destek gerektiren kronik bir hastalıktır."</item>
+        <item>"Uzm. Psk. Gürler Güz, ÜLKE TV'de yayınlanan Şaban Özdemir'in sunduğu BİLİMDEN SAĞLIĞA programının konuğu oldu."</item>
+        <item>"Odaklanma sorununa neden olan dikkat eksikliği ve hiperaktivite bozukluğunun tedavisinde kullanılan ilaçlar ise madde bağımlılığı tehlikesi yaratması nedeniyle gündemde. "</item>
+        <item>"Hastanemizin Bağımlılık Merkezi Direktörü Prof. Dr. Kültegin Ögel, TGRT Haber’de "Madde Bağımlılarının Aileleri Ne Yapmalı?" üzerine açıklamalarda bulundu"</item>
+        <item>" Türkiye Bağimlılıkla Mücadele Eğitim Programı (TBM) her yıl yaklaşık 10 milyon öğrenciye 3 milyon da yetişkine ulaşmaktadır."</item>
+        <item>"Madde kullanımını tek başına bırakmak çok zordur ve hatta tehlikeli olabilir. Mevcut yardım türlerini anlayın."</item>
+        <item>"Bağımlılık yapan ilaçların vücudunuzu nasıl etkilediğine ve madde bağımlılığının tedavisinin neden bu kadar zor olabileceğine dair bilime bir göz atın."</item>
+    </string-array>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alcohol_addiction_questions">
+        <item>Alkol kullanımının bir kişide problem haline geldiğini ne zaman söyleyebiliriz?</item>
+        <item>Emzirme dönemindeki bazı annelerimizin süt yaptığı gerekçesiyle alkolsüz bira tükettiği biliniyor. Bu gerekçe doğru mudur?</item>
+        <item>Alkol gıdaların sindirilmesinde faydalı mıdır?</item>
+        <item>Yasal düzenlemeler alkol bağımlılığını azaltmada etkili olur mu?</item>
+        <item>Türkiye Alkol Politikaları Platformu ne zaman kuruldu ve ne gibi çalışmalar yapmaktadır?</item>
+        <item>Alkol bağımlısı bireyin tedavisi, sadece bireyin isteğiyle mi yapılmalıdır?</item>
+        <item>Bira böbrek taşını düşürür mü?</item>
+        <item>Arkadaşım/öğrencim alkol bağımlısı. Ne yapmalıyım?</item>
+        <item>Alkol ve madde kullanımı bakımından kadın ve erkek arasında fark var mıdır? Varsa niçin?</item>
+
+    </string-array>
+    <string-array name="alcohol_addiction_question_answers">
+        <item>Alkol kullanımında risk düzeyini belirlemek için, kullanılan alkolün cinsi ve alkol miktarının bilinmesi gereklidir. Bu sebeple Dünya Sağlık Örgütünün belirlemiş olduğu “standart ölçü” bulunmaktadır. Standart ölçü erkekler için haftada 14, kadınlar için 7 ölçüyü geçmemelidir. Günlük standart alkol kullanımı erkekler için 4, kadınlar için 3 ölçüden fazla olmamalıdır. Hafta da en az 2 gün kullanılmamalıdır. Hamileler, hastalar ve araba kullananlar hiç kullanmamalıdır. Alkol kullanım miktarı standart içki kullanımının üzerinde olan durumlarda kişiler alkolün yarattığı fiziksel ve ruhsal sorunları yaşamaya başlayabilir. Bununla birlikte daha düşük dozlardaki alkol kullanımının zarar vermeyeceği anlamına da gelmemektedir.
+
+\nAlkol bağımlılık yapan bir maddedir. Alkol alan bireylerde bağımlılık gelişiminden önce sorunlu alkol kullanımının varlığından söz etmek mümkündür. Sorunlu alkol kullanımının belirtileri şu şekildedir;
+
+\n\u2022Kişinin çeşitli zararlar görmesine rağmen alkol kullanımına devam etmesi,
+\n\u2022Alkol kullanımı üzerinde kontrolünü kaybetmesi (planladığından daha fazla düzeylerde alkol kullanımının olması),
+\n\u2022Alkol kullandıktan sonra kendini kötü ve suçlu hissetmesi
+\n\u2022Çevresindeki kişilerin alkol kullanımından şikâyetçi olması; ancak buna rağmen kullanımına devam etmesi,
+\n\u2022Alkol kullanımına bağlı olumsuz belirtileri yaşamamak adına alkol kullanımını sürdürmesi,
+\n\u2022Aile, arkadaş ve iş ilişkilerinin kullanıma bağlı olarak olumsuz etkilenmesi, bununla birlikte kullanımına devam etmesi,
+            \nYukarıda belirtilen durumların varlığında sorunlu alkol kullanımından bahsedilebilir.</item>
+        <item>
+            Alkol kullanımının emziren annelerde sütü artırdığına dair bazı düşünceler vardır; ancak bu konuyu destekleyen herhangi bir çalışma bulunmamaktadır. Yapılan bazı araştırmalarda, alkol kullanan anneler de emme neticesinde oluşan prolaktin (süt üretimini sağlayan hormon) hormonunun yetersiz salgılanması sebebi ile süt miktarında azalma meydana gelmektedir. Azalan süt miktarıyla birlikte annelerin bebeği emzirme süreleri de kısalmaktadır. Bu durum neticesinde annenin bebeğine fiziksel ve duygusal açıdan yeteri kadar ilgi gösteremiyor olması bebeğin gelişimini olumsuz etkilemektedir.
+        </item>
+        <item>Alkolün sindirim sistemine olumsuz etkileri bulunmakta; mide-bağırsak sistemi üzerinde problemlerin yaşanmasına neden olmaktadır. İştahı artırır, güçlü bir tahriş edici madde olduğundan mide yapısını bozararak kişinin sindirimini zorlaştırır, pankreasın salgısını artırır, yerel tahriş edici etkisine ve beyindeki etkisine bağlı olarak kusmaya sebep olur, dışkıyı yumuşatır ama sürekli kullanımında kalın bağırsak hareketlerini baskılayabilir.</item>
+        <item>Alkole ulaşılabilirliğin denetlenmesinin ve vergi uygulamalarının, yasal satın alma yaşının yüksek olmasının, ayıklık kontrol noktaları kurulmasının, riskli miktarda alkol almış sürücülere yasal yaptırımlar uygulanmasının alkol kullanımını etkileyen faktörler olduğu aktarılmaktadır.\n
+
+Dünya Sağlık Örgütünün 2011 yılında yayınlanan “Alkol ve Sağlık Küresel Durum Raporu”nda alkol kullanımına ilişkin uygulanan politikalar içerisinde; eğitim ve bilgilendirme, tedavi ve erken müdahale hizmetleri, alkollü içkilerin ulaşılabilirliğine kısıtlamalar getirilmesi, alkollü araç kullanmanın önlenmesi, fiyat ve vergilendirme sistemi, reklam ve sponsorluğun önlenmesi yer almaktadır.
+
+\n2018 yılında yayınlanan 11. Kalkınma Planı Bağımlılıkla Mücadele Çalışma Grubu Raporu’nda; Türkiye’de 15 yaş ve üzeri bireylerde alkol kullanım miktarında 2012 yılının ardından gözle görülür bir düşüş olduğu yer almakta ve alkol kontrol politikalarının etkin bir şekilde uygulandığı belirtilmektedir.</item>
+        <item>Türkiye Alkol Politikaları Platformu (TAPP) 2013 yılında, 30 kurum ve kuruluşun katılımıyla oluşturulmuş bir yapıdır. TAPP, alkol politikalarıyla ilgili mevzuatları hem ulusal hem de uluslararası düzeyde halk sağlığı normlarına uygun hale getirmeyi amaçlamakta, bu konuda uluslararası kuruluşların attığı adımları takip ederek ulusal düzeyde uygulanması için örnek olabilecek çalışmaların yasalaşmasına çalışmakta, alkol kullanımının zararları hakkında farkındalık çalışmaları yürütmektedir.
+
+</item>
+        <item>Bağımlılık tedavisinde motivasyon çok önemlidir. Kişiler kimi zaman davranışlarını değiştirmek istemezler. Onları bu seçimlerinden döndürmenin yolu, değişime inandırmakla mümkündür. Zorlama, nasihat etme ya da yargılama gibi tutum ve davranışlar beraberinde çözümsüzlüğü getirecektir. Kişi destek almak istemese bile yakınlarının danışmanlık hizmeti alması oldukça önemlidir.\n
+
+Aileler kişiye birçok alanda sonsuz destek sağlamaktadır. Bu desteği çektiklerinde her şeyin daha kötüye gideceğine dair inanca sahiptirler. Aileler bu sebeple kişinin sorumluluğunu üstlenerek alkol-madde kullanımına bağlı yaşamı üzerindeki olumsuz etkileri görmesini engellemektedir. Böylece birey için yalnızca alkol-maddenin sağladığı geçici keyifler ve onu bırakmanın getireceği zorluklar vardır. Bu tip durumlar bireyin alkol- madde kullanımına dair destek alma motivasyonunun düşmesine sebep olacaktır.
+\nAile üyeleri ve yakınlarının tedavi süreci hakkında doğru bilgilendirilmesi, tutum ve davranışlarında değişiklik yapması, kişinin değişim yönündeki motivasyonunu artırabilir. Bu şekilde kişinin tedaviye başlaması sağlanabilmektedir.</item>
+        <item>Bira, diüretik yani idrar sökücü etkiye sahiptir. Bira kullanımının idrara çıkma sıklığını ve miktarını artırıyor olması, biranın böbrek taşı düşürmeyi kolaylaştırdığı yanlış yorumuna sebep olabilmektedir. Burada idrara çıkmayı kolaylaştıra faktör sıvı tüketiminin fazla olmasıdır.
+\nBu sebeple su tüketiminin artırılması daha sağlıklı bir yöntemdir. Ek olarak, bira böbrek taşı oluşum riskini artırabilmektedir. Böbrek taşı sorunu yaşayan bir bireyin bu konuda doktoruna başvurarak doğru tedaviyi alması daha uygun olacaktır.</item>
+        <item>Yakınınızın alkol kullanım bozukluğu olduğunu düşünüyorsanız;
+
+\n\u2022Bireylerin alkol kullanımını bırakma motivasyonu hemen oluşmayabilir. Motivasyonunu artırmak adına bir uzmanla görüşmesini sağlayabilirsiniz.
+\n\u2022Kişiyi alkol kullanımıyla ilgili korkutmak ya da baskılamak direnç oluşmasına sebep olabilir. Bu da bırakma motivasyonunu olumsuz etkileyebilir. Yargılayıcı, nasihat verici ya da suçlayıcı ifadeler yerine onu anladığınızı hissettirin.
+\n\u2022Zaman zaman alkol kullanımına dair duyduğunuz endişeyi, alkol kullanımından dolayı, onunla ilişkinizde yaşadığınız zorlukları “ben dili” ile ifade edin.
+\n\u2022Alkol kullanımı olmadığı dönem ile alkol kullanımının olduğu dönem arasındaki farkları ifade edin.
+\n\u2022Alkol kullanımını bırakma ile ilgili seçenekleri araştırarak bunları onunla paylaşın. “Kendisinin karar vermesini bekleyin”
+\n\u2022Kullanımını bırakmak istemese bile zarar azaltmak için destek alabileceğini paylaşın.
+\n\u2022Uzun süreli alkol kullanımı olan kişilerde alkol kesildiği zaman ”deliryum” adı verilen ağır tablo görülebilir. Deliryum, alkol kullanımı bırakıldıktan 2-10 gün arasında ortaya çıkar. Kişi bu durumda, yer ve zaman algısını yitirir, çevresindeki kişileri tanıyamaz, olamayan sesler duyar ve hayaller görür, dikkat ve hafızası bozulur. Bu durumda kişi acilen hastaneye yönlendirilmelidir.
+\nKişinin bağımlılığını bırakması bir değişim gerektirir. Bağımlılıkta değişim zaman alır. Bu süreçte ailenin ve çevresindeki kişilerin tutarlı davranışlar göstermesi ve değişim için sabırlı olması oldukça önemlidir.</item>
+        <item>
+            Madde kullanımı açısından, kadın ve erkekler arasında hem bağımlılığa başlama hem de bağımlılıktan kurtulma süreciyle alakalı yapılan araştırmalarda belli farkların olduğunu görüyoruz. Ergen erkekler bağımlılık sürecine çok daha hızlı bir şekilde dâhil olurken, ergen genç kızlar bu sürece daha düşük oranda ve daha geç dâhil oluyorlar. Bir bağımlı alt kültürü anlamında erkeklerin bağımlılık sürecini sürdürmeleri ve doğallığında bağımlılık etkilerini toplumsal ilişkilerde daha fazla hissettirmeleri daha yaygın ve daha net görülen bir durumdur.
+\n
+Oysa bir kadının gerek bir bağımlı alt kültürü oluşturma gerekse bunu devam ettirme noktasında daha kısıtlayıcı bir imkâna sahip olduğuna tanık oluyoruz. Fakat yaklaşık 7-8 yıldan beri, özellikle alkol sektörünün reklam amaçlı çalışmalarının bayanlar üzerinde yoğunlaştığına tanık oluyoruz. Bu anlamda araştırmalardaki oranların da zaman içerisinde değiştiğine tanık oluyoruz.
+        </item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--- TEST1-->
+        <string name="test1_question1">"Tipik bir günde alkol içeren kaç standart içki içersiniz?"</string>
+        <string-array name="test1_options1">
+            <item>"1 ya da 2"</item>
+            <item>"3 ya da 4"</item>
+            <item>"5 ya da 6"</item>
+            <item>"7 ya da 9"</item>
+        </string-array>
+
+        <string name="test1_question2">"Bir defada ne sıklıkla altı veya altıdan daha fazla içki içersiniz?"</string>
+        <string-array name="test1_options2">
+            <item>"Asla"</item>
+            <item>"Aylık"</item>
+            <item>"Haftalık"</item>
+            <item>"Günlük"</item>
+        </string-array>
+
+        <string name="test1_question3">"Geçtiğimiz yıl boyunca, ne sıklıkla içmeye başladıktan sonra bırakamadığınızı fark ettiniz?"</string>
+        <string-array name="test1_options3">
+            <item>"Asla"</item>
+            <item>"Aylık"</item>
+            <item>"Haftalık"</item>
+            <item>"Günlük"</item>
+        </string-array>
+
+        <string name="test1_question4">"Geçtiğimiz yıl boyunca, içki içmeniz nedeniyle normalde sizden beklenenleri ne sıklıkla yerine getiremediniz?"</string>
+        <string-array name="test1_options4">
+            <item>"Asla"</item>
+            <item>"Aylık"</item>
+            <item>"Haftalık"</item>
+            <item>"Günlük"</item>
+        </string-array>
+
+        <string name="test1_question5">"Geçtiğimiz yıl boyunca içki içtikten sonra ne sıklıkla suçluluk veya pişmanlık hissettiniz?"</string>
+        <string-array name="test1_options5">
+            <item>"Asla"</item>
+            <item>"Aylık"</item>
+            <item>"Haftalık"</item>
+            <item>"Günlük"</item>
+        </string-array>
+
+        <string name="test1_question6">"Alkol içeren bir içeceği ne sıklıkla içersiniz?"</string>
+        <string-array name="test1_options6">
+            <item>"Asla"</item>
+            <item>"Ayda 2-4 kez"</item>
+            <item>"Haftada 2-3 kez"</item>
+            <item>"Haftada 4 ya da daha fazla"</item>
+        </string-array>
+
+    <!--- TEST3-->
+        <string name="test3_question1">"Alkol almaya daha fazla vakit ayırmak için hobilerinizi, spor yapmayı, sanat ekinliklerine gitmeyi vs. azalttınız ya da bıraktınız mı?"</string>
+        <string-array name="test3_options1">
+            <item>"Evet"</item>
+            <item>"Genellikle"</item>
+            <item>"Nadiren"</item>
+            <item>"Hayır"</item>
+        </string-array>
+
+        <string name="test3_question2">"Alkol kullanmanızla orantılı olarak psikolojik (uykusuzluk, depresyon vb.) ve/veya fizyolojik (karaciğer ve mide sorunları vb.) sorunlar yaşıyor musunuz?"</string>
+        <string-array name="test3_options2">
+            <item>"Evet"</item>
+            <item>"Genellikle"</item>
+            <item>"Nadiren"</item>
+            <item>"Hayır"</item>
+        </string-array>
+
+        <string name="test3_question3">"Alkolü bırakmaya ya da azaltmaya karar verip de sonrasında vazgeçiyor musunuz?"</string>
+        <string-array name="test3_options3">
+            <item>"Evet"</item>
+            <item>"Çoğunlukla"</item>
+            <item>"Bazen"</item>
+            <item>"Hayır"</item>
+        </string-array>
+
+        <string name="test3_question4">"Her kullanımınızda 'az içeceğim' diye başlayıp miktarı ve süreyi hep artırıyor musunuz?"</string>
+        <string-array name="test3_options4">
+            <item>"Evet"</item>
+            <item>"Genellikle"</item>
+            <item>"Nadiren"</item>
+            <item>"Hayır"</item>
+        </string-array>
+
+        <string name="test3_question5">"Alkol kullanımının verdiği zararların farkında olduğunuz halde devam etmek için kendinize sürekli gerekçeler buluyor musunuz?"</string>
+        <string-array name="test3_options5">
+            <item>"Evet"</item>
+            <item>"Sıklıkla"</item>
+            <item>"Nadiren"</item>
+            <item>"Hayır"</item>
+        </string-array>
+
+        <string name="test3_question6">"Alkol kullanımı, aile ve iş yaşamındaki ilişkilerinizi ve sorumluluklarınızı olumsuz etkiliyor mu?"</string>
+        <string-array name="test3_options6">
+            <item>"Evet"</item>
+            <item>"Çoğunlukla"</item>
+            <item>"Bazen"</item>
+            <item>"Hayır"</item>
+        </string-array>
+
+    <!--- TEST2-->
+        <string-array name="alcohol_yes_no_questions">
+            <item>Sinirlerinizi yatıştırmak adına veya sabah gözünüzü açar açmaz ilk iş olarak bir içkiye ihtiyacınız olduğunu hissettiniz mi?</item>
+            <item>İçki içme konusunda hiç suçluluk duygusu hissettiğiniz oldu mu?</item>
+            <item>İnsanların içki tüketiminizi eleştirmek suretiyle sizi rahatsız ettiği oldu mu?</item>
+            <item>Hiç içki tüketimini azaltmanız gerektiğini hissettiniz mi?</item>
+            <item>Sizi çökkün, kaygılı ya da kuşkucu yapmış olmasına ve beden sağlığınızı olumsuz etkiliyor olmasına karşın alkol almayı sürdürdünüz mü?</item>
+            <item>Içki içmeye zaman ayırmak için, daha önceleri zevk alarak yaptığınız birtakım etkinlikleri yapmadığınız oldu mu?</item>
+            <item>Alkol etkisi altında değilken, bulantı, terleme, uyumakta güçlük çekme, kalp atışlarında hızlanma, huzursuzluk, titreme ya da sallanma gibi, birtakım yoksunluk belirtileri yaşadığınız oldu mu?</item>
+            <item>Alkole karşı dayanıklılığınızda bir artma oldu mu; diğer bir deyişle, geçmişte sağladığı etkilere benzer etkileri sağlayabilmesi için, daha çok alkol almak durumunda kaldınız mı?</item>
+            <item>Evde ya da işyerinizde birtakım sorunlara neden olmasına karşın içki içmeyi sürdürdünüz mü?</item>
+            <item>Sık içki içmeniz, ilişkilerinizi, ailenizi ya da iş yaşamınızı olumsuz yönde etkiledi mi?</item>
+            <item>Birçok kez, içkiyi bırakmaya çalıştığınız ama başaramadığınız oldu mu?</item>
+            <item>Istediğinizden daha çok alkol tükettiğiniz ya da daha uzun süre içkili olduğunuz zamanlar oldu mu?</item>
+        </string-array>
+</resources>

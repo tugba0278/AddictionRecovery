@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GeneralAddictionTest3Page"
+    android:background="@color/app_pages_bg">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/general_addiction_test3_layout">
+            <TextView
+                android:id="@+id/questionNum"
+                android:layout_width="160dp"
+                android:layout_height="40dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="80dp"
+                android:textStyle="bold"
+                android:textColor="@color/general_addiction_title_color"
+                android:textSize="20sp"
+                android:text="Questions: 1/n" />
+            <TextView
+                android:layout_alignTop="@id/questionNum"
+                android:id="@+id/questionTitle"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="150dp"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:textColor="@color/general_addiction_title_color"
+                android:textSize="20sp"
+                android:text="Question"
+                android:layout_marginBottom="75dp"/>
+            <RadioGroup
+                android:layout_alignTop="@id/questionTitle"
+                android:id="@+id/radioGroup"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="215dp">
+                <RadioButton
+                    android:id="@+id/rb1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Option 1"
+                    android:textColor="@color/general_addiction_test_text"
+                    android:textSize="20sp" />
+                <RadioButton
+                    android:id="@+id/rb2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Option 2"
+                    android:textColor="@color/general_addiction_test_text"
+                    android:textSize="20sp" />
+
+            </RadioGroup>
+            <Button
+                android:id="@+id/btnNext"
+                android:layout_width="140dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/radioGroup"
+                android:layout_marginTop="15dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="85dp"
+                android:textSize="14sp"
+                android:backgroundTint="@color/general_addiction_test_bg"
+                android:text="Sonraki Soru "
+                android:textColor="@color/general_addiction_test_text" />
+
+
+        </RelativeLayout>
+    </ScrollView>
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/page_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <include
+            android:id="@+id/bottom_nav_id"
+            layout="@layout/bottom_nav_view"
+            android:visibility="visible"/>
+    </RelativeLayout>
+    <include
+        android:id="@+id/nav_view"
+        layout="@layout/nav_view"
+        android:visibility="invisible" />
+
+</androidx.drawerlayout.widget.DrawerLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Kullanıcı Profili"
+          android:id="@+id/kullanici_profili_option" />
+    <item android:title="Neyi Amaçlıyoruz"
+        android:id="@+id/neyi_amacliyoruz_option"/>
+    <item android:title="Geri Bildirim"
+        android:id="@+id/geri_bildirim_option"/>
+
+    <item android:title="Çıkış Yap"
+        android:id="@+id/cikis_yap_option"/>
+
+
+</menu>

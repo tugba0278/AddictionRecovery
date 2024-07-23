@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="160dp"
+    android:background="@drawable/ga_grid_bg"
+    android:backgroundTint="@color/subs_addiction_test_bg"
+    android:textSize="12sp"
+    android:gravity="center"
+    android:padding="8dp"
+    android:textAppearance="@style/subs_addiction_test_grid_style"
+    >
+
+</TextView>

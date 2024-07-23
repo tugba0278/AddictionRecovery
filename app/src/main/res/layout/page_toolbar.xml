@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/toolbar_background"
+    android:minHeight="?attr/actionBarSize"
+
+
+    app:title="Anasayfa"
+    app:titleTextAppearance="@style/title_style">
+    <ImageView
+        android:id="@+id/navigation_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@raw/menu"
+        android:layout_gravity="end"
+        android:paddingEnd="15dp"
+        android:paddingRight="15dp"
+        />
+
+</androidx.appcompat.widget.Toolbar>

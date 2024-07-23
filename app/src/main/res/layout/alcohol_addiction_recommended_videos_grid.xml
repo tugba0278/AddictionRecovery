@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="150dp"
+    android:background="@drawable/ga_grid_bg"
+    android:backgroundTint="@color/alcohol_addiction_test_grid_bg"
+    android:text="LOREM"
+    android:textColor="@color/black"
+    android:textStyle="bold"
+    android:textSize="14sp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingRight="5dp"
+    android:paddingLeft="5dp"
+    android:gravity="center"
+    >
+
+</TextView>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_addiction_question_list">
+        <item>Yasaklar merak uyandırarak insanlar üzerinde ters bir etki yapabilir mi?</item>
+        <item>Aileler çocuklarını bağımlılıktan uzak tutmak için neler yapmalıdır?</item>
+        <item>Tiryakilik ile bağımlılık arasında bir fark var mıdır?</item>
+        <item>Bağımlılık yapan maddeler sadece kullanan kişilere mi zarar verir?</item>
+        <item>Sadece zayıf karakterli ve/veya davranış problemi olan bireyler mi bağımlı olur?</item>
+        <item>Çocuklarımızı madde, alkol ve sigaradan nasıl uzak tutabiliriz?</item>
+        <item>Bağımlılığın tedavisi mümkün müdür?</item>
+        <item>Arkadaşım bağımlı ise ne yapmalıyım?</item>
+        <item>Alkol ve madde kullanımı bakımından kadın ve erkek arasında fark var mıdır? Varsa niçin?</item>
+
+
+    </string-array>
+
+</resources>

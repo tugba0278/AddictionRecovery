@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_addiction_video_titles">
+        <item>"Bağımlılık Üzerine - NA Bilim"</item>
+        <item>"Bağımlılık Nedir? Dr. Gabor Mate"</item>
+        <item>"Bağımlı Mısınız? Peki Neden?" | "Hayatın İçinden"</item>
+        <item>"Bağımlılık nedir ? / Bağımlılık nasıl oluşur ? / Beyin-Ödül sistemi"</item>
+        <item>"Davranış ya da Madde Bağımlılığında Tedavi Nasıl Olmalı?"</item>
+        <item>"Bağımlılık Nedir ? Tedavileri Nelerdir ? Ücretsiz Bağımlılık Testi"</item>
+        <item>"Bağımlılık Hormonu: Dopamin"</item>
+        <item>"Powerful Addiction Video by Filmbuilder and Friends"</item>
+        <item>"Bağımlı Beyin"</item>
+        <item>"Bağımlılık Tedavi Edilir Mi?"</item>
+        <item>"Why Your Bad Habits Keep Winning"</item>
+        <item>"Bağımlılık nedir, nasıl tedavi edilir?"</item>
+        <item>"Bağımlılık Neden Bir Beyin Problemidir? | Sinan Canan"</item>
+    </string-array>
+
+    <string-array name="general_addiction_video_ids">
+        <item>"F40cI_NHw9Y"</item>
+        <item>"nfs1wd9BvxI"</item>
+        <item>"VDcnteWfgW0"</item>
+        <item>"P6glgoqr7K8"</item>
+        <item>"EUN-BxpKGG4"</item>
+        <item>"3p7ltA0avTk"</item>
+        <item>"UexIuqblm-c"</item>
+        <item>"6CyecTodsuQ"</item>
+        <item>"JC_Ixv5Ygvw"</item>
+        <item>"nCvuuTs3vFA"</item>
+        <item>"byFCX84X4Q0"</item>
+        <item>"j16wO4iD3fI"</item>
+        <item>"w4yzcFS9RMI"</item>
+    </string-array>
+
+    <string-array name="general_addiction_video_descriptions">
+        <item>"Bağımlılığın kapsamının uyuşturucu maddelerden daha geniş olduğuna değinen bir psikolog gözünden bağımlılığa bakmamızı sağlayan bir video."</item>
+        <item>"Yüzyılın insan bedenini ve ruhunu anlamakla ilgili çok özel ismi Dr. Gabor Mate 'nin bağımlılığı anlamamıza yardım eden muhteşem konuşması.."</item>
+        <item>"Bağımlılığın bağlantısızlıktan oluştuğunu anlattığım bu video'da ‘Bağımlılık nedir?’, ‘Bağımlılık nasıl oluşur?’, ‘Bağımlılıktan nasıl kurtulabilirim?'"</item>
+        <item>"Bağımlılık nedir? / Bağımlılık nasıl oluşur? / Dopamin ne işe yarar ve beyin ödül mekanizmasının temelinde ne vardır?"</item>
+        <item>"Psikiyatri Uzmanı Prof. Dr. Nesrin Dilbaz, kumar ya da yeme bağımlılığı gibi davranış bağımlılığında geçerli tek bir ilacın olmadığını belirtiyor."</item>
+        <item>"Beynin ödül sistemleri ve dopamin, Bağımlılık tedavisi ve bağımlılıktan kurtulma yolları nelerdir?"</item>
+        <item>"Your Brain On Porn animasyon serisinin 4. video ile karşınızdayız. Videoyu beğenmeyi ve yeni videolar için abone olmayı unutmayın. Sevgilerle"</item>
+        <item>"İstismar/bağımlılığın son derece basit ama güçlü görselleştirilmesi."</item>
+        <item>"Beynin fren mekanizması olan ön beynin bağımlılıktan en çok etkilenen bölge olduğunu ifade eden Prof. Dr. Dilbaz, bağımlılığın daha çok haz almak için geliştiğini söyledi"</item>
+        <item>"Bağımlılık Tedavi Edilir Mi? Kişinin bağımlı olduğu nasıl anlaşılır? Bağımlılık tedavisi ne kadar sürede gerçekleşir."</item>
+        <item>"Bu videoda, kötü alışkanlıklarınızın neden üstünlük sağladığının ardındaki psikolojinin derinliklerine iniyoruz."</item>
+        <item>"Bu videoda Uzm. Psk. Nazlı Kocabaşa ve Uzm. Serra Kampeas bağımlılıklara değinmiştir. Bağımlılık nedir, belirtileri nelerdir, en sık rastlanan türleri hangileridir?"</item>
+        <item>"İnsan hakkında artık her zamankinden çok daha fazla şey biliyoruz. Hâlâ önümüzdeki en büyük muamma olsa da, insana dair temel kuralları anlamaya başladık."</item>
+    </string-array>
+</resources>

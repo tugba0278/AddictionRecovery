@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TEST1 BAŞALNGIÇ-->
+    <string name="subs_addiction_test1_question1">Yoğun ya da olumsuz geçen bir günün ardından rahatlamak için ilk aklınıza gelen madde kullanmak mı oluyor?</string>
+    <string-array name="subs_addiction_test1_question1_options">
+        <item>Evet</item>
+        <item>Genellikle</item>
+        <item>Ara Sıra</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test1_question2">Zaman içinde kullandığınızı maddenin miktarını ve süresini artırıyor musunuz?</string>
+    <string-array name="subs_addiction_test1_question2_options">
+        <item>Evet</item>
+        <item>Çoğunlukla</item>
+        <item>Nadiren</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test1_question3">Madde almadığınızda sinirlilik, uykusuzluk gibi yoksunluk belirtileri gösteriyor musunuz?</string>
+    <string-array name="subs_addiction_test1_question3_options">
+        <item>Evet</item>
+        <item>Genellikle</item>
+        <item>Ara Sıra</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test1_question4">Madde kullanımınız nedeniyle sorumluklarınız ve sosyal aktiviteleriniz aksıyor mu?</string>
+    <string-array name="subs_addiction_test1_question4_options">
+        <item>Evet</item>
+        <item>Nadiren</item>
+        <item>Çoğunlukla</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test1_question5">İş yaşantınızın, ailenizle ve çevrenizdekilerle iletişiminizin eskisi gibi olumlu olmadığını söyler misiniz?</string>
+    <string-array name="subs_addiction_test1_question5_options">
+        <item>Evet</item>
+        <item>Genellikle</item>
+        <item>Ara Sıra</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test1_question6">Madde kullanımınız nedeniyle sorumluluklarınız ve sosyal aktiviteleriniz aksıyor mu?</string>
+    <string-array name="subs_addiction_test1_question6_options">
+        <item>Evet</item>
+        <item>Çoğunlukla</item>
+        <item>Nadiren</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test1_question7">Madde kullanımının kendinize ve çevrenize zarar verdiğinin farkında olsanız da devam etme isteği duyuyor musunuz?</string>
+    <string-array name="subs_addiction_test1_question7_options">
+        <item>Evet</item>
+        <item>Çoğunlukla</item>
+        <item>Nadiren</item>
+        <item>Hayır</item>
+    </string-array>
+    <!-- TEST1 SON-->
+
+    <!-- TEST2 BASLANGIC -->
+    <string name="subs_addiction_test2_question1">Sıklıkla amaçladığınızdan daha fazla miktarda veya daha uzun bir süre boyunca uyuşturucu kullanıyor musunuz?</string>
+    <string-array name="subs_addiction_test2_question1_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test2_question2">Bir süredir uyuşturucuyu bırakmak mı istediniz ya da bunun için başarısız girişimlerde mi bulundunuz?</string>
+    <string-array name="subs_addiction_test2_question2_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test2_question3">Uyuşturucu bulmak, kullanmak veya uyuşturucudan kurtulmak için çok zaman harcıyor musunuz?</string>
+    <string-array name="subs_addiction_test2_question3_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test2_question4">Uyuşturucu kullanmak için güçlü dürtüleriniz veya güçlü istek duyuyor musunuz?</string>
+    <string-array name="subs_addiction_test2_question4_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test2_question5">Uyuşturucu kullanımınız iş, ev veya okuldaki yükümlülüklerinizi yerine getirememenize neden oldu mu?</string>
+    <string-array name="subs_addiction_test2_question5_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test2_question6">Uyuşturucu kullanımınız nedeniyle sosyal, mesleki veya eğlence amaçlı faaliyetlerinizi azaltmak veya terk etmek zorunda kaldınız mı?</string>
+    <string-array name="subs_addiction_test2_question6_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test2_question7">Uyuşturucu kullanımınız nedeniyle sosyal veya ilişki sorunları yaşadınız ve yine de kullanmaya devam ettiniz mi?</string>
+    <string-array name="subs_addiction_test2_question7_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test2_question8">Fiziksel veya ruhsal sağlık sorunlarına neden olduğunu veya kötüleştirdiğini bilerek uyuşturucu kullanmaya devam ettiniz mi?</string>
+    <string-array name="subs_addiction_test2_question8_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test2_question9">Araba veya makine kullanırken olduğu gibi, tehlikeli olduğu durumlarda defalarca uyuşturucu kullandınız mı?</string>
+    <string-array name="subs_addiction_test2_question9_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test2_question10">Uyuşturucu kullanımınızı azaltmaya veya bırakmaya çalıştığınızda, rahatsız edici fiziksel veya ruhsal sağlık belirtileri (yoksunluk) yaşadınız mı?</string>
+    <string-array name="subs_addiction_test2_question10_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test2_question11">Uyuşturucu kullandığınızda geçmişe kıyasla etkilerde azalma yaşadınız mı ve/veya aradığınız etkileri hissetmek için daha fazla uyuşturucuya ihtiyaç duydunuz mu (tolerans)?</string>
+    <string-array name="subs_addiction_test2_question11_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <!-- TEST2 SON-->
+
+    <!-- TEST3 BASLANGIC-->
+    <string name="subs_addiction_test3_question1">Tıbbi nedenlerle ihtiyacınız olanlar dışında ilaç kullandınız mı?</string>
+    <string-array name="subs_addiction_test3_question1_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test3_question2">Aynı anda birden fazla uyuşturucu türü kullanıyor musunuz?</string>
+    <string-array name="subs_addiction_test3_question2_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test3_question3">İstediğiniz zaman uyuşturucu kullanmayı bırakamıyor musunuz?</string>
+    <string-array name="subs_addiction_test3_question3_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test3_question4">Uyuşturucu kullanımının bir sonucu olarak bayıldığınız veya flashback yaşadığınız oldu mu?</string>
+    <string-array name="subs_addiction_test3_question4_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test3_question5">Uyuşturucu kullanımının bir sonucu olarak suçluluk veya başka kötü duygular hissettiniz mi?</string>
+    <string-array name="subs_addiction_test3_question5_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test3_question6">Eşiniz (veya ebeveynleriniz) uyuşturucu kullanımınızdan şikayet etti mi?</string>
+    <string-array name="subs_addiction_test3_question6_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test3_question7">Uyuşturucu kullanımınız nedeniyle ailenizi ihmal ettiniz mi?</string>
+    <string-array name="subs_addiction_test3_question7_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test3_question8">Uyuşturucu elde etmek için hiç yasadışı faaliyetlere karıştınız mı?</string>
+    <string-array name="subs_addiction_test3_question8_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test3_question9">Uyuşturucu kullanmayı bıraktığınızda yoksunluk belirtileri (hasta hissetme) yaşadınız mı?
+</string>
+    <string-array name="subs_addiction_test3_question9_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="subs_addiction_test3_question10"> Uyuşturucu kullanımınız nedeniyle tıbbi sorunlar yaşadınız mı (örneğin, hafıza kaybı, hepatit, konvülsiyonlar, kanama)?
+</string>
+    <string-array name="subs_addiction_test3_question10_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+<!--TEST3 SON-->
+
+</resources>

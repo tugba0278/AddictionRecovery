@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366589933811",
+    "project_id": "addictionrecovery-6f83d",
+    "storage_bucket": "addictionrecovery-6f83d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366589933811:android:54e727735876007e5c9f86",
+        "android_client_info": {
+          "package_name": "com.example.addictionrecovery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5YaBlaqfZQ9NEZXkCMmJaa6K7h6PUYHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

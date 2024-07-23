@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="100dp"
+    android:layout_height="160dp"
+    android:background="@drawable/ga_grid_bg"
+    android:backgroundTint="@color/alcohol_addiction_title_bg"
+    android:gravity="center"
+    android:text="LOREM"
+    android:textSize="12sp"
+    android:textColor="@color/app_pages_bg"
+    android:padding="8dp">
+
+</TextView>

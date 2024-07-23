@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="technology_addiction_questions">
+        <item>Teknoloji bağımlılığını kontrol altına alma yolları nelerdir?</item>
+        <item>Teknoloji bağımlılığı devam eden bir bağımlılık mıdır?</item>
+        <item>Teknoloji bağımlılığı fiziksel bir zarar verir mi?</item>
+        <item>Kimler teknoloji bağımlısı olabilir?</item>
+        <item>Çocuklarda teknoloji bağımlılığı nasıl önlenir?</item>
+        <item>Ergenlikte teknoloji bağımlılığı nasıl önlenir?</item>
+        <item>Telefon bağımlılığı uykuyu etkiler mi?</item>
+        <item>İdeal ekran süresi ne kadar olmalıdır?</item>
+    </string-array>
+
+
+    <string-array name="technology_addiction_question_answers">
+        <item>Teknoloji bağımlılığını kontrol altına almanın en büyük destekçisi devamlılıktır.
+            <b>\n\n\u2022\u2022Bilinçli Kullanım Alışkanlıkları Geliştirin: </b>
+            \nTeknolojiyi bilinçli bir şekilde kullanmaya odaklanın. Kendinize günlük veya haftalık teknoloji kullanım hedefleri belirleyin ve bu hedeflere ulaşmaya çalışın.
+            <b>\n\n\u2022\u2022Zaman Yönetimi: </b>
+            \nTeknoloji kullanımınızı planlayın ve sınırlayın. Belirli zaman dilimleri belirleyerek teknolojiye ne zaman ve ne kadar zaman harcayacağınızı belirleyin.
+            <b>\n\n\u2022\u2022Teknoloji Detoksları:  </b>
+            \nDüzenli aralıklarla teknoloji detoksu yapın. Birkaç saat, bir gün veya bir hafta boyunca teknoloji kullanımını tamamen keserek çevrenizdeki gerçek dünyaya odaklanın.
+            <b>\n\n\u2022\u2022Fiziksel Aktiviteyi Artırın: </b>
+            \nDışarıda spor yapmak, yürüyüşe çıkmak veya spor salonuna gitmek gibi fiziksel aktivitelerle zaman geçirerek teknolojiye olan bağımlılığınızı azaltın.
+            <b>\n\n\u2022\u2022Uyku Kalitesine Dikkat Edin:</b>
+            \nTeknoloji kullanımını yatmadan önce sınırlayın. Ekranların mavi ışığı uykunuzu etkileyebilir, bu yüzden uyumadan önce ekranlardan uzak durun.
+            <b>\n\n\u2022\u2022Profesyonel Yardım Alın:</b>
+            \nTeknoloji bağımlılığı ciddi bir sorun haline geldiğinde profesyonel yardım almayı düşünün. Psikologlar veya bağımlılık uzmanları, teknoloji bağımlılığıyla başa çıkmanıza yardımcı olabilir.
+        </item>
+        <item>
+            Teknoloji bağımlılığı, diğer bağımlılıklar gibi devam edebilen bir durumdur. Teknoloji bağımlılığı, teknolojik cihazlar ve internet kullanımıyla ilişkili olarak ortaya çıkan bir tür bağımlılıktır. İnternet, akıllı telefonlar, bilgisayarlar ve diğer dijital araçlarla aşırı derecede zaman geçirme ve bu kullanımın kişinin işlevselliğini, ilişkilerini, iş performansını veya genel sağlığını olumsuz yönde etkilemesi durumunda teknoloji bağımlılığından bahsedilir. Bu nedenle, teknoloji bağımlılığı ciddiye alınması gereken bir durumdur ve uygun tedavi ve destekle kontrol altına alınması önemlidir.
+        </item>
+        <item>
+            Teknoloji bağımlılığı fiziksel zararlara neden olabilir. Özellikle aşırı teknoloji kullanımı beraberinde çeşitli sağlık sorunlarına yol açabilir:
+            <b>\n\n\u2022\u2022Göz Problemleri: </b>
+            \n Uzun süre ekranlara bakmak gözlerde yorgunluk, kuru gözler, göz ağrısı ve bulanık görme gibi sorunlara neden olabilir. Mavi ışığa maruz kalma ise uyku düzenini etkileyebilir.
+            <b>\n\n\u2022\u2022Boyun ve Sırt Ağrıları:</b>
+            \nSürekli olarak eğilerek veya yanlış duruşlarla telefon veya bilgisayar kullanımı, boyun ve sırt ağrılarına yol açabilir. Bu durum ilerleyen zamanlarda kronik ağrılarla sonuçlanabilir.
+            <b>\n\n\u2022\u2022El ve Bilek Sorunları: </b>
+            \nKlavye, fare veya dokunmatik ekran kullanımı ellerde ve bileklerde ağrıya, karpal tünel sendromu gibi sorunlara yol açabilir.
+            <b>\n\n\u2022\u2022Uyku Sorunları:</b>
+            \nGece geç saatlere kadar teknoloji kullanımı, mavi ışık yayarak melatonin üretimini engelleyebilir ve uyku kalitesini düşürebilir.
+            <b>\n\n\u2022\u2022Fiziksel İnaktivite:</b>
+            \nTeknoloji bağımlılığı, fiziksel aktivitelerden uzaklaşmayı ve daha pasif bir yaşam tarzı benimsemeyi teşvik edebilir, bu da obezite ve diğer sağlık sorunlarına zemin hazırlayabilir.
+        </item>
+        <item>
+            Teknoloji bağımlılığı, her yaştan ve her kesimden insanı etkileyebilir. Ancak, bazı kişilerin teknoloji bağımlılığına daha yatkın olduğu düşünülen bazı risk faktörleri bulunmaktadır:
+            <b>\n\n\u2022\u2022Gençler ve Ergenler: </b>
+            Gençler ve ergenler, teknolojiyi sıkça kullanma eğilimindedirler ve dijital dünyada daha fazla zaman geçirirler. Bu nedenle, teknoloji bağımlılığı genellikle bu yaş grubunda daha yaygın görülür.
+            <b>\n\n\u2022\u2022Yalnızlık: </b>
+            Yalnızlık hissi çeken veya sosyal ilişkilerde zorluk yaşayan bireyler, internet ve diğer dijital platformlarda sosyal bağlantılar kurma ihtiyacı duyabilirler, bu da teknoloji bağımlılığı riskini artırabilir.
+            <b>\n\n\u2022\u2022Stres ve Anksiyete: </b>
+            Stresli veya kaygılı durumlarla başa çıkmak için teknolojiye sığınma eğilimi, teknoloji bağımlılığını tetikleyebilir.
+            <b>\n\n\u2022\u2022Zamanın Serbest Olması: </b>
+            Boş zamanın fazla olması veya işsizlik gibi durumlar, bireyleri teknolojiyi daha fazla kullanmaya yönlendirebilir.
+            \n\nHer ne kadar bu risk faktörleri teknoloji bağımlılığını artırsa da, herkes teknoloji bağımlılığına eğilimli olabilir. Önemli olan, bu tür risk faktörlerini tanımak ve sağlıklı teknoloji kullanım alışkanlıkları geliştirmek için bilinçli çaba göstermektir.
+        </item>
+        <item>
+            <b>Çocuklarda teknoloji bağımlılığını önlemek için aşağıdaki yöntemleri uygulayabilirsiniz:</b>
+            <b>\n\n\u2022\u2022Model Davranışı: </b>
+            Ebeveynler olarak, çocuklara teknolojiyi nasıl dengeli bir şekilde kullanacaklarını öğretmek için model davranış sergileyin. Kendi teknoloji kullanımınızı kontrol altında tutun ve çocuklara doğru örnek olun.
+            <b>\n\n\u2022\u2022Sınırları Belirleyin: </b>
+            Çocukların teknoloji kullanımını sınırlamak önemlidir. Belirli zaman dilimleri belirleyerek ne zaman ve ne kadar teknoloji kullanacaklarını belirleyin. Bu zaman dilimlerinde ekran sürelerini kısıtlayın.
+            <b>\n\n\u2022\u2022Alternatif Aktiviteler Sunun:  </b>
+            Çocuklara teknoloji dışı aktiviteler sunarak zamanlarını daha dengeli bir şekilde geçirmelerini sağlayın. Kitap okuma, spor yapma, müzik dinleme, sanat ve el işleri gibi alternatif aktiviteler teşvik edin.
+            <b>\n\n\u2022\u2022Aile İçi Etkileşimi Artırın: </b>
+            Aile içi etkileşimi artırarak çocukların teknoloji dışı ilişkiler geliştirmelerine yardımcı olun. Ailece yapılabilecek aktiviteler planlayın ve beraber vakit geçirin.
+            <b>\n\n\u2022\u2022Teknoloji Kuralları Belirleyin: </b>
+            Aile olarak teknoloji kullanımıyla ilgili kurallar belirleyin ve bu kurallara uyulmasını sağlayın. Örneğin, yemek zamanlarında telefonları kapatmak veya yatak odalarında ekran kullanımını sınırlamak gibi kurallar koyabilirsiniz.
+        </item>
+        <item>
+            <b>\u2022\u2022Aile İletişimini Güçlendirin: </b>
+            Ergenlerle açık ve sağlıklı iletişim kurun. Onların teknoloji kullanımıyla ilgili endişelerini dinleyin ve birlikte sağlıklı teknoloji kullanımı hakkında konuşun.
+            <b>\n\n\u2022\u2022Sınırları Belirleyin: </b>
+            Aile olarak, ergenlerin teknoloji kullanımını sınırlayan kurallar koyun. Belirli saatlerde ekran zamanını sınırlayın ve teknoloji kullanımı konusunda net kurallar belirleyin.
+            <b>\n\n\u2022\u2022Alternatif Aktiviteler Sunun:  </b>
+            Ergenlere teknoloji dışı aktiviteler sunarak zamanlarını daha dengeli bir şekilde geçirmelerini teşvik edin. Spor, müzik, resim yapma gibi alternatif aktiviteleri destekleyin.
+            <b>\n\n\u2022\u2022Ergenlere Sorumluluk Verin: </b>
+            Ergenlere teknoloji kullanımıyla ilgili sorumluluklar verin. Örneğin, akıllı telefonlarını güvenli bir şekilde kullanmayı öğrenmelerine yardımcı olun ve çevrimiçi güvenlik konusunda bilinçlendirin.
+            <b>\n\n\u2022\u2022Ergenlerin İnternet Güvenliği Bilincini Artırın: </b>
+            Ergenlere çevrimiçi güvenlik konusunda bilgi verin ve internetten kaynaklanabilecek riskleri anlamalarına yardımcı olun. Güvenli internet kullanımı konusunda eğitimler düzenleyin ve ergenlerle açık bir şekilde konuşun.
+        </item>
+        <item>
+            Telefon bağımlılığı, uyku kalitesini olumsuz etkileyebilir. Özellikle akşam saatlerinde telefon veya diğer dijital cihazların kullanımı, uyku düzenini bozabilir. Bu cihazlar mavi ışık yayarak çalışır ve bu mavi ışık, melatonin adı verilen uyku hormonunun üretimini engelleyebilir. Bu durum, kişinin uykuya dalmayı geciktirebilir ve uyku kalitesini düşürebilir.
+        </item>
+        <item>
+            Amerikan Pediatri Akademisi^nin önerilerine göre, çocuklar için ideal ekran süresi belirlenmiştir. İki yaşından küçük çocuklar için ekran süresi sıfıra yakın olmalıdır. Üç ila beş yaş arası çocuklar için günde bir saatlik ekran süresi önerilirken, altı yaşından büyük çocuklar ve ergenler için günlük ekran süresi 2 saate kadar olmalıdır. Yetişkinler için ise kesin bir sınır belirlenmemiş olsa da, ekran zamanını kontrol altında tutmak ve gerçek dünyadaki aktivitelere de zaman ayırmak önemlidir.
+        </item>
+    </string-array>
+</resources>

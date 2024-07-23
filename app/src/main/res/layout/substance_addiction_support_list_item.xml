@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/warning_bg"
+    android:backgroundTint="@color/subs_addiction_test_bg"
+    android:textColor="@color/subs_addiction_homepage_txt_color"
+    android:text="Lorem"
+    android:gravity="center_horizontal"
+    android:textIsSelectable="true"
+    android:padding="15dp">
+
+</TextView>

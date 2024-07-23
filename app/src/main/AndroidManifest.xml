@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:enableOnBackInvokedCallback="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AddictionRecovery"
+        tools:targetApi="31">
+        <activity
+            android:name=".AlcoholAddictionTest3Page"
+            android:exported="false" />
+        <activity
+            android:name=".AlcoholAddictionTest2Page"
+            android:exported="false" />
+        <activity
+            android:name=".AlcoholAddictionTest1Page"
+            android:exported="false" />
+        <activity
+            android:name=".SubstanceAddictionTest3Page"
+            android:exported="false" />
+        <activity
+            android:name=".SubstanceAddictionTest2Page"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SubstanceAddictionTest1Page"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GeneralAddictionTest3Page"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GeneralAddictionTest2Page"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GeneralAddictionTest1Page"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TechnologyAddictionTest3Page"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TechnologyAddictionTest2Page"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TechnologyAddictionTestPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TechnologyAddictionSupportPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TechnologyAddictionVideosPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TechnologyAddictionShowVideos"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TechnologyAddictionQuestionAnswersPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TechnologyAddictionQuestionsPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TechnologyAddictionMainPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AlcoholAddictionSupportPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AlcoholAddictionVideosPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AlcoholAddictionShowVideos"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AlcoholAddictionQuestionAnswersPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AlcoholAddictionQuestionsPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AlcoholAddictionMainPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".drawer_menu"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Feedback"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".user_profile"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UpdateName"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UpdateMail"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UpdatePassword"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Purpose"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SubstanceAddictionSupportPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SubstanceAddictionShowVideos"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SubstanceAddictionVideosPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SubstanceAddictionQuestionAnswersPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SubstanceAddictionQuestionsPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SubstanceAddictionMainPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GeneralAddictionSupportPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GeneralAddictionShowVideos"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GeneralAddictionVideosPage"
+            android:exported="false"
+            android:label="@string/title_activity_general_addiction_videos_page"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AddictionRecovery" />
+        <activity
+            android:name=".GeneralAddictionQuestionAnswersPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GeneralAddictionQuestionsPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GeneralAddictionMainPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HomePage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".WelcomePage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RegisterPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LoginPage"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

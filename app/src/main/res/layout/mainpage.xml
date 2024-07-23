@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/welcome_page"
+    android:clipToOutline="true"
+    android:background="#F2FFE9"
+    android:orientation="vertical">
+    <ImageView
+
+        android:src="@raw/amico"
+        android:id="@+id/nature"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="150dp"
+        >
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/welcome_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginRight="25dp"
+        android:lineSpacingExtra="6sp"
+
+        android:gravity="center_horizontal|top"
+        android:text="@string/welcome_speech"
+        android:textAppearance="@style/welcome_speech_style" />
+
+    <ImageView
+        android:id="@+id/forward"
+        android:src="@drawable/forward_arrow"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginRight="25dp"
+        android:layout_alignRight="@id/welcome_text"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="600dp"
+        android:clickable="true"
+
+        />
+
+
+</RelativeLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subs_addiction_questions">
+        <item>Madde kullanımı bağımlıya ne gibi zararlar verir?</item>
+        <item>Kişide ne gibi değişikliklere yol açar?</item>
+        <item>Madde bağımlılığı birdenbire mi ortaya çıkar?</item>
+        <item>En çok kimlerde görülür?</item>
+        <item>Ağa düşmemek için neler yapmalıyız?</item>
+        <item>Olası sonuçları nelerdir?</item>
+        <item>Kişi ne zaman madde bağımlısı sayılır?</item>
+        <item>Nasıl kandırmaya çalışıyorlar?</item>
+        <item>Hangi maddeler bağımlılığa yol açar?</item>
+    </string-array>
+
+    <string-array name="subs_addiction_question_answers">
+        <item>Madde bağımlılığı, fiziksel ve psikolojik sağlık üzerinde ciddi zararlara yol açabilen bir durumdur. Öncelikle, madde kullanımı bağımlılığı, kişinin beyin kimyasını değiştirerek düşünme, öğrenme ve hafıza süreçlerini etkileyebilir. Uzun süreli kullanım, beyinde kalıcı hasarlara neden olabilir ve bilişsel fonksiyonları olumsuz etkileyebilir. Bunun sonucunda, odaklanma güçlüğü, hafıza kaybı ve karar verme yeteneğinde azalma gibi sorunlar ortaya çıkabilir.
+
+            \nAyrıca, madde bağımlılığı bedensel sağlığı da olumsuz etkiler. Özellikle uyuşturucu kullanımı, kalp atışlarını hızlandırabilir, kan basıncını yükseltebilir ve solunumu etkileyebilir. Bu durumda, kalp krizi, felç, solunum yetmezliği gibi ciddi sağlık sorunları ortaya çıkabilir ve hatta ölüme neden olabilir. Ayrıca, madde kullanımı bağışıklık sistemini zayıflatarak enfeksiyonlara ve hastalıklara daha duyarlı hale getirebilir.
+
+            \nMadde bağımlılığı aynı zamanda kişinin sosyal ve ekonomik yaşamını da olumsuz etkiler. Bağımlı bireyler genellikle işlerini kaybeder, ilişkilerinde sorunlar yaşar ve toplumdan dışlanma riskiyle karşı karşıya kalır. Ekonomik açıdan bakıldığında ise, madde bağımlılığı tedavi, sağlık hizmetleri ve yasal sorunlar gibi yüksek maliyetlerle ilişkilendirilebilir. Sonuç olarak, madde bağımlılığı sadece bireyin değil, aynı zamanda toplumun da sağlığı ve refahı üzerinde ciddi zararlara yol açabilir.</item>
+
+        <item>Madde bağımlılığı, kişinin davranışlarında, duygusal durumunda ve fiziksel sağlığında çeşitli değişikliklere neden olabilir. İlk olarak, bağımlılık geliştiren bireylerin davranışları genellikle kontrolsüz hale gelir. Madde kullanımı, kişinin günlük yaşamını etkiler ve zamanla önceliklerini değiştirir. İş, okul veya sosyal ilişkiler gibi önemli alanlarda düşüşler yaşanabilir. Bağımlı bireyler, madde temin etmek ve kullanmak için gereksiz riskler alabilirler, hatta yasal sorunlarla karşılaşabilirler.
+
+\nDuygusal olarak, madde bağımlılığı kişinin ruh halini etkileyebilir. Madde kullanımı sırasında artan mutluluk ve rahatlama duyguları zamanla azalır ve kişi depresyon, kaygı ve irritabilite gibi duygusal sorunlarla karşılaşabilir. Bağımlı bireyler, madde kullanımı olmadan normal hissetmekte zorlanabilirler ve bu da maddeyi daha fazla kullanmalarına neden olabilir.
+
+\nFiziksel sağlık açısından, madde bağımlılığı ciddi sonuçlara yol açabilir. Uyuşturucu kullanımı, kalp rahatsızlıkları, karaciğer hasarı, solunum problemleri ve sinir sistemi bozuklukları gibi çeşitli sağlık sorunlarına neden olabilir. Madde bağımlılığı ayrıca uyku bozuklukları, yetersiz beslenme ve cilt problemleri gibi yan etkilere de yol açabilir.
+
+\nSonuç olarak, madde bağımlılığı bireyin yaşamının her alanında derin değişikliklere neden olabilir. Davranışlarında kontrol kaybı, duygusal dalgalanmalar ve fiziksel sağlık sorunları gibi belirtilerle birlikte, bağımlı bireylerin yaşam kalitesi ve genel sağlığı ciddi şekilde etkilenebilir. Bu nedenle, madde bağımlılığıyla mücadele etmek ve destek sağlamak önemlidir.</item>
+        <item>Madde bağımlılığı genellikle birdenbire ortaya çıkmaz, genellikle zamanla gelişen bir süreçtir. İlk olarak, bir birey genellikle maddeyi deneysel olarak kullanmaya başlar. Bu, merak, sosyal baskı, stres veya duygusal zorluklar gibi çeşitli faktörlerle tetiklenebilir. Ancak, ilk kullanımdan bağımlılığa geçiş birkaç seferlik kullanımdan oluşmaz. Bağımlılık genellikle tekrarlayan ve düzenli kullanımla ilişkilidir. Bu süreçte, kişi maddeyi kullanma alışkanlığı kazanır ve vücut buna bağışıklık geliştirir.
+
+\nBağımlılık, kullanım sıklığı ve miktarı arttıkça zamanla gelişir. Bireyler genellikle tolerans geliştirir ve aynı etkiyi elde etmek için daha fazla madde kullanmaya başlarlar. Bu süreçte, madde kullanımı kişinin günlük yaşamını etkilemeye başlar ve kontrolden çıkar. Bağımlılık genellikle zamanla kötüleşir ve kişiye zarar veren bir döngü haline gelir. Bu nedenle, madde bağımlılığının önlenmesi veya tedavi edilmesi için erken müdahale önemlidir.</item>
+        <item>
+            Madde bağımlılığı, herkesi etkileyebilecek bir sorundur, ancak belirli gruplar genellikle daha yüksek risk altındadır. Bu gruplar, çeşitli sosyal, ekonomik ve genetik faktörlerden etkilenir ve madde bağımlılığına yatkınlık gösterebilir. Risk altındaki bu gruplar, toplumda daha geniş bir önleme ve müdahale stratejilerinin odak noktası olabilir.
+
+Risk altındaki gruplar şunları içerebilir:
+\n1. Gençler ve genç yetişkinler: Ergenlik dönemi, beyin gelişiminin hızlı olduğu bir dönemdir ve bu dönemde madde kullanımı, bağımlılık riskini artırabilir.
+\n2. Duygusal ve zihinsel sağlık sorunları olan bireyler: Depresyon, anksiyete ve diğer ruh sağlığı sorunları olan kişiler, kendilerini rahatlatmak veya semptomları hafifletmek için madde kullanabilirler.
+\n3. Aile geçmişi olanlar: Ailesinde madde bağımlılığı öyküsü bulunan bireyler, genetik yatkınlık nedeniyle daha büyük bir risk altındadır.
+\n4. Sosyo-ekonomik dezavantaj içinde olanlar: Düşük gelir seviyeleri, işsizlik, evsizlik gibi faktörler madde kullanımına eğilimi artırabilir.
+\n5. Arkadaş çevresi ve çevresel etkiler: Madde kullanımıyla ilişkili arkadaşlık grupları veya çevresel baskılar, bireyleri madde kullanımına yönlendirebilir.
+\n6. Yüksek stres seviyeleri olanlar: Stres, madde kullanımını tetikleyebilir ve kişilerin stresle başa çıkmak için maddeye yönelmelerine neden olabilir.
+\n7. Kronik ağrı veya diğer sağlık sorunları olanlar: Kronik ağrı gibi sürekli rahatsızlık veren sağlık sorunları olan bireyler, ağrıyı hafifletmek için reçeteli ilaçları kötüye kullanabilir ve bağımlılık geliştirebilirler.
+
+\nBu gruplar, toplumda madde bağımlılığına karşı daha özel ve hedefli önleme ve müdahale programlarının geliştirilmesi için öncelikli olarak değerlendirilebilir.
+        </item>
+        <item>
+                Madde bağımlılığından kaçınmak için bilinçli bir yaşam tarzı benimsemek önemlidir. İlk adım, madde bağımlılığının zararlarını ve risklerini anlamaktır. Bilgi sahibi olmak, madde kullanımının uzun vadeli etkilerini anlamamıza ve bu konuda daha bilinçli kararlar almamıza yardımcı olur. Ayrıca, sağlıklı alışkanlıklar geliştirmek de önemlidir. Düzenli egzersiz yapmak, sağlıklı beslenmek, yeterince uyumak ve stres yönetim tekniklerini uygulamak, bedenimizi ve zihnimizi güçlendirebilir ve madde kullanımına karşı direncimizi artırabilir.
+
+\nİkinci olarak, sosyal destek ağlarını güçlendirmek ve sağlıklı ilişkiler kurmak da önemlidir. Pozitif arkadaşlık gruplarına ve aile üyelerine sahip olmak, stresle başa çıkmada ve olumlu aktivitelerle meşgul olmada yardımcı olabilir. Ayrıca, kişisel sınırlarımızı belirlemek ve riskli durumlardan kaçınmak da kritiktir. Kendi sınırlarımızı belirleyip hayır demeyi öğrenmek, baskı altında madde kullanmaktan kaçınmamıza yardımcı olabilir. Sonuç olarak, bilinçli bir yaşam tarzı benimsemek, sağlıklı alışkanlıklar geliştirmek ve destekleyici ilişkiler kurmak, madde bağımlılığından kaçınmamıza yardımcı olabilir.
+        </item>
+        <item>
+            Madde bağımlılığının olası sonuçları ciddi ve geniş kapsamlıdır. Fiziksel sağlık açısından, madde bağımlılığı kalıcı hasarlara neden olabilir ve çeşitli sağlık sorunlarına yol açabilir. Kalp rahatsızlıkları, karaciğer hasarı, solunum problemleri ve sinir sistemi bozuklukları gibi ciddi sağlık sorunları ortaya çıkabilir. Ruhsal sağlık üzerinde de önemli etkileri vardır; depresyon, anksiyete, psikoz ve diğer ruhsal bozukluklar sık görülebilir. Sosyal ve ekonomik sonuçlar da ciddidir; iş kaybı, eğitim ve kariyer fırsatlarının kaybı, aile içi çatışmalar, yasal sorunlar ve toplumdan dışlanma gibi sonuçlarla karşılaşılabilir. Sonuç olarak, madde bağımlılığı bireyin yaşamını derinden etkiler ve hem kişisel hem de toplumsal düzeyde ciddi sorunlara neden olabilir.
+        </item>
+        <item>Kişi, madde bağımlısı olarak kabul edilirken, belirli kriterlere göre değerlendirilir. Bunlar genellikle madde kullanımının düzenliliği, miktarı ve kişinin yaşamındaki etkileri gibi faktörlere dayanır. Bağımlılık, maddeyi kontrol etme gücünü yitirme, madde kullanımının sosyal, işlevsel veya sağlıkla ilgili sorunlara neden olması ve madde kullanımına devam etme isteği gibi belirtilerle tanımlanır. Kişi, madde kullanımı nedeniyle iş veya okul performansında düşüş, ilişki sorunları, mali zorluklar veya yasal problemler yaşıyorsa ve madde kullanımını durdurmak veya kontrol etmek konusunda güçlük çekiyorsa, madde bağımlısı olarak kabul edilebilir. Bağımlılık, genellikle kişinin günlük yaşamını derinden etkiler ve bağımlı kişinin kendi kendine yardım etmesi zor olabilir, bu nedenle profesyonel yardım ve destek genellikle gereklidir.</item>
+        <item>
+            Madde kullanımına kandırma genellikle çeşitli yollarla gerçekleşebilir. İlk olarak, sosyal baskı ve grup etkisi, gençleri ve genç yetişkinleri madde kullanmaya yönlendiren önemli bir faktördür. Arkadaş çevresinde madde kullanımının normalleştirilmesi veya "cool" olarak algılanması, bireyleri bu davranışı denemeye teşvik edebilir. Arkadaşların veya grup üyelerinin madde kullanımını görmek, kişinin bu davranışı taklit etme isteğini artırabilir.
+
+\nİkinci olarak, reklam ve medya, madde kullanımını cazip hale getirebilir. Madde kullanımı genellikle popüler kültürde, müzik videolarında, filmlerde veya sosyal medyada olumlu bir şekilde temsil edilir. Bu, gençleri ve genç yetişkinleri madde kullanımını denemeye teşvik edebilir ve olumlu bir deneyim olarak görmelerini sağlayabilir.
+
+\nSon olarak, duygusal veya zihinsel zorluklarla başa çıkmak için madde kullanımı teşvik edilebilir. Özellikle stres, baskı veya travmatik deneyimlerle başa çıkmak için madde kullanımının bir kaçış mekanizması olarak görülmesi yaygındır. Bu durumda, kişi kendini rahatlatmak veya duygusal acıyı hafifletmek için maddeye yönelir. Ancak, bu kaçış yolunun uzun vadeli sonuçları genellikle olumsuz olabilir ve bağımlılığa yol açabilir.
+
+\nBu nedenlerle, madde kullanımına kandırma genellikle sosyal, kültürel ve duygusal faktörlerin etkileşimiyle gerçekleşir. Bu durumu önlemek için, gençlere madde kullanımının riskleri ve zararları konusunda eğitim vermek, sağlıklı başa çıkma becerilerini öğretmek ve pozitif sosyal destek ağları sağlamak önemlidir.
+        </item>
+        <item>
+            Bağımlılık yapan maddeler genellikle kişinin fiziksel ve zihinsel sağlığını olumsuz yönde etkileyen ve kontrolsüz kullanımlarıyla ciddi zararlara yol açabilen maddelerdir. Bu maddeler, kullanıcının beyin kimyasını etkileyerek zevk ve ödül merkezlerini uyarır ve bağımlılık yapıcı potansiyele sahiptir. Bağımlılık, madde kullanımı sonucunda vücutta tolerans ve yoksunluk belirtilerinin gelişmesiyle karakterizedir. Kişi, maddeye olan bağımlılığı nedeniyle kullanımı kontrol etmekte zorlanır ve hayatının çeşitli alanlarında sorunlar yaşayabilir. Bağımlılık yapan maddeler arasında alkol, uyuşturucular, tütün, bazı reçeteli ilaçlar ve kafein gibi maddeler bulunmaktadır.
+
+Bağımlılık yapan maddeler:
+\n1. Alkol
+\n2. Uyuşturucular (örneğin eroin, kokain, metamfetamin, LSD, ecstasy)
+\n3. Tütün (sigara, pipo, nargile)
+\n4. Bazı reçeteli ilaçlar (ağrı kesiciler, uyku ilaçları)
+\n5. Kafein (kahve, çay, enerji içecekleri)
+        </item>
+    </string-array>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FBF3D5">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/title"
+                style="@style/title_style"
+                android:layout_width="match_parent"
+                android:layout_height="73dp"
+                android:background="@color/toolbar_background"
+                android:gravity="center"
+                android:layout_centerHorizontal="true"
+                android:text="Ad Soyad Güncelleme"
+                android:textColor="#FBF3D5" />
+            <ImageView
+                android:id="@+id/back_icon"
+                android:layout_width="72dp"
+                android:layout_height="54dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="130dp"
+                android:clickable="true"
+                android:src="@drawable/back_arrow_red" />
+            <ImageView
+                android:id="@+id/user_profile"
+                android:layout_width="180dp"
+                android:layout_height="200dp"
+                android:layout_below="@+id/title"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="140dp"
+                android:layout_marginTop="70dp"
+                android:layout_marginEnd="110dp"
+                android:src="@raw/update_profile" />
+            <EditText
+                android:id="@+id/updateName"
+                android:layout_width="270dp"
+                android:layout_height="60dp"
+                android:layout_below="@+id/user_profile"
+                android:layout_marginTop="80dp"
+                android:background="@drawable/edittext_border"
+                android:layout_centerHorizontal="true"
+                android:hint="Ad soyad giriniz.."
+                android:textAlignment="center"
+                android:textColor="@color/alt_toolbar_icon_color"
+                android:textColorHint="#BBAB8C" />
+            <Button
+                android:id="@+id/update_button"
+                android:layout_width="180dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/updateName"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="60dp"
+                android:backgroundTint="@color/alt_toolbar_icon_color"
+                android:text="Güncelle"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

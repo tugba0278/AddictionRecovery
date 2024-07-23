@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--- TEST1 BAŞLANGIÇ-->
+    <string name="ga_test1_question1">"Hayatınızda hiç uyuşturucu madde denediniz mi?"</string>
+    <string-array name="ga_test1_question1_options">
+        <item>"Evet, birçok kez denedim."</item>
+        <item>"Evet ama sadece “hafif” tabir edilen uyuşturucuları denedim."</item>
+        <item>"Denemedim"</item>
+        <item>"Denemedim, asla denemem."</item>
+    </string-array>
+    <string name="ga_test1_question2">"Ailenizde ve yakın arkadaşlarınızda alkol ya da uyuşturucu bağımlılığı olan biri var mı?"</string>
+    <string-array name="ga_test1_question2_options">
+        <item>"Evet, ebeveynlerimden ikisinin de bağımlılık problemi var."</item>
+        <item>"Evet, sadece annem ya da babamın bağımlılık problemi var."</item>
+        <item>"Annem babam dışındaki yakın akrabalarımdan ve arkadaşlarımdan bazılarının var."</item>
+        <item>"Hayır bildiğim kadarıyla ailemde ve arkadaşlarım arasında bağımlılık problemi yaşayan kimse yok."</item>
+    </string-array>
+    <string name="ga_test1_question3">"Bir şeyi ilk kez deneyimleyip hoşunuza gittiğini anladığınızda yaşadığınız duyguyu nasıl tanımlarsınız?"</string>
+    <string-array name="ga_test1_question3_options">
+        <item>"Çok heyecanlanırım ve yaşadığım tecrübeyi bir daha deneyimlemek için sabırsızlanırım."</item>
+        <item>"Çok memnun olurum ve kendimi tamamlanmış hissederim."</item>
+        <item>"Keyif aldığımın farkına bir an için varırım ancak sonra dikkatim dağılır."</item>
+        <item>"Keyif alıp sürekli yapmayı isteme ihtimalinden endişe ederim."</item>
+    </string-array>
+    <string name="ga_test1_question4">"Günlük hayatın yoruculuğu sonrasında kafa dağıtmak ve kendinizi şımartmak için seçtiğiniz yöntem nedir?"</string>
+    <string-array name="ga_test1_question4_options">
+        <item>"Anlık mutluluk getirecek herhangi bir şey: Alkol ya da uyuşturucu."</item>
+        <item>"Yemek ya da cinsellik."</item>
+        <item>"Günlük yaşantıma kolayca entegre edebileceğim şeyler: Sevdiğim kahve zincirinden kahve almak, trafikten kaçmak ya da yüksek sesle müzik dinlemek..."</item>
+        <item>"Boş vaktimi değerlendirebileceğim şeyler: Spor, hobi ya da kariyerime odaklanmak."</item>
+    </string-array>
+    <string name="ga_test1_question5">"Ne derece yaratıcı ve sanatsal birisiniz?"</string>
+    <string-array name="ga_test1_question5_options">
+        <item>"İnsanlar genelde çok yaratıcı olduğumu söylerler. Yazmayı severim, müziğe ve sanatın farklı kollarına ilgi duyarım."</item>
+        <item>"Sanırım yaratıcı sayılırım. İyi fikirler bulduğum oluyor ama böbürlenmeye değer bir şey yok."</item>
+        <item>"Yaratıcı ve sanatsal değilim ama olmayı isterdim."</item>
+        <item>"Sanat ve yaratıcılık gerektiren şeylere pek ilgim yoktur."</item>
+    </string-array>
+    <string name="ga_test1_question6">"Daha önce bir şeye ya da birine karşı bağımlılık geliştirdiğinizi hissederek kontrolü geri almaya çalıştığınız olmuş muydu?"</string>
+    <string-array name="ga_test1_question6_options">
+        <item>"Evet, aileme/sevgilime karşı, karşı koyamadığım bir bağımlılık geliştirdiğimi hissettim."</item>
+        <item>"Daha önce bir şeyi kullanmayı abarttığımı hissettim."</item>
+        <item>"Daha önce bir şeyi kullanmayı abarttığımı hissettim ama kolayca bıraktım."</item>
+        <item>"Hayır, hiçbir zaman öyle bir durum olmadı."</item>
+    </string-array>
+    <string name="ga_test1_question7">"Daha önce hiç depresyona girdiniz mi?"</string>
+    <string-array name="ga_test1_question7_options">
+        <item>"Evet, kendimi bildim bileli ya depresyondayım ya da depresyona meyilliyim. İlaç kullanıyorum/kullandım."</item>
+        <item>"Birkaç kez başıma geldi ama neyse ki atlattım"</item>
+        <item>"Sadece bir kez girdim."</item>
+        <item>"Kötü olaylar karşısında kendimi depresif hissettiğim oldu ama ciddi bir durum değildi."</item>
+    </string-array>
+    <!--TEST1 SON-->
+
+    <!--TEST2 BAŞLANGIÇ -->
+    <string name="ga_test2_question1">Büyümenize çok az faydası olduğunu ya da hiç faydası olmadığını bildiğiniz faaliyetlere sık sık katılıyor musunuz?</string>
+    <string-array name="ga_test2_question1_options">
+        <item>Evet</item>
+        <item>Bazen</item>
+        <item>Hayır</item>
+        <item>Bilmiyorum</item>
+    </string-array>
+    <string name="ga_test2_question2">İstediğinizi elde etmek için başkalarını ne sıklıkla yanlış yönlendiriyorsunuz?</string>
+    <string-array name="ga_test2_question2_options">
+        <item>Evet</item>
+        <item>Bazen</item>
+        <item>Hayır</item>
+        <item>Bilmiyorum</item>
+    </string-array>
+    <string name="ga_test2_question3">Kendinizi pozitif ve/veya genel olarak mutlu bir insan olarak tanımlayabilir misiniz?</string>
+    <string-array name="ga_test2_question3_options">
+        <item>Evet</item>
+        <item>Bazen</item>
+        <item>Hayır</item>
+        <item>Bilmiyorum</item>
+    </string-array>
+    <string name="ga_test2_question4">Kafein, enerji içecekleri ve diğer uyarıcıları ne kadar düzenli tüketiyorsunuz?</string>
+    <string-array name="ga_test2_question4_options">
+        <item>Evet</item>
+        <item>Bazen</item>
+        <item>Hayır</item>
+        <item>Bilmiyorum</item>
+    </string-array>
+    <string name="ga_test2_question5">Büyümenize çok az faydası olduğunu ya da hiç faydası olmadığını bildiğiniz faaliyetlere sık sık katılıyor musunuz?</string>
+    <string-array name="ga_test2_question5_options">
+        <item>Evet</item>
+        <item>Bazen</item>
+        <item>Hayır</item>
+        <item>Bilmiyorum</item>
+    </string-array>
+    <string name="ga_test2_question6">Bu ifadeye ne ölçüde katılıyorsunuz? Yeni bir hobi veya ilgi alanı keşfettiğimde, bunu hızla takıntı haline getirme eğilimindeyim.</string>
+    <string-array name="ga_test2_question6_options">
+        <item>Kesinlikle Katılıyorum</item>
+        <item>Katılıyorum</item>
+        <item>Ne Katılıyorum Ne Katılmıyorum</item>
+        <item>Katılmıyorum</item>
+    </string-array>
+    <string name="ga_test2_question7">Bu ifadeye ne ölçüde katılıyorsunuz? Hayatınızı değiştirecek kararlar almadan önce, kendinizden daha bilge kişilerden tavsiye veya görüş almak önemlidir.</string>
+    <string-array name="ga_test2_question7_options">
+        <item>Kesinlikle Katılıyorum</item>
+        <item>Katılıyorum</item>
+        <item>Ne Katılıyorum Ne Katılmıyorum</item>
+        <item>Katılmıyorum</item>
+    </string-array>
+    <!--TEST2 SON-->
+
+    <!--TEST3 BAŞLANGIÇ-->
+    <string name="ga_test3_question1">Bir faaliyeti bırakmaya karar verdiğiniz halde ona geri döndüğünüz oluyor mu?</string>
+    <string-array name="ga_test3_question1_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="ga_test3_question2">Düzenlemekte zorlandığınız bu davranışı durdurmak istiyor musunuz? Devam etmekte bir sorun görüyor musunuz?</string>
+    <string-array name="ga_test3_question2_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="ga_test3_question3">Daha fazla zevkin daha fazla riskle bağlantılı olduğunu düşünüyor musunuz?</string>
+    <string-array name="ga_test3_question3_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="ga_test3_question4">Bu faaliyete katılmanızın bir sonucu olarak yaptığınız (veya yapmadığınız) eylemler nedeniyle iş yerinde veya okulda başınızın derde girdiği oldu mu? Örneğin, içki içmeyi seçtiğiniz için bir ödevi tamamlayamamış olabilirsiniz.</string>
+    <string-array name="ga_test3_question4_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="ga_test3_question5">İş yerinde veya okulda geçirdiğiniz stresli bir günün ardından, kendinizi sadece o faaliyeti gerçekleştirmeyi düşünürken buluyor musunuz, belki de kaygı, stres ve korkunuzdan kurtulmanın tek yolunun bu olduğunu mu düşünüyorsunuz?</string>
+    <string-array name="ga_test3_question5_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="ga_test3_question6">Belirli bir aktiviteyi 24 saat boyunca yapamazsanız, acı, endişe, hayal kırıklığı hissediyor veya panik atak geçiriyor musunuz? Kullanmamanızdan kaynaklanan fiziksel komplikasyonlarınız var mı?</string>
+    <string-array name="ga_test3_question6_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="ga_test3_question7">Genellikle sizinle birlikte bu faaliyette bulunan kişileri ailenizden ve arkadaşlarınızdan saklamanız ve hayatlarınızı ayrı tutmanız gerektiğini mi hissediyorsunuz?</string>
+    <string-array name="ga_test3_question7_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="ga_test3_question8">Kendinizi düzenli olarak stres giderici bir faaliyet veya herhangi bir madde kullanımı hakkında düşünürken buluyor musunuz? Günde en az bir veya daha fazla kez bu faaliyeti düşünüyor musunuz?</string>
+    <string-array name="ga_test3_question8_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="ga_test3_question9">Sıklıkla katıldığınız bir faaliyete katılma planınızı engelleyen bir şey yüzünden hiç hayal kırıklığına uğradınız mı?</string>
+    <string-array name="ga_test3_question9_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="ga_test3_question10">Bu faaliyete katılmanızın bir sonucu olarak (en azından kısmen) mali zorluklarla karşılaşıyor musunuz? Bu durum, yeterli miktarda maddeye sahip olabilmek için kira veya ipotek ödemelerini aksatmanızdan ya da yiyecek paranızı kumarda kaybetmenizden kaynaklanıyor olabilir.</string>
+    <string-array name="ga_test3_question10_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string name="ga_test3_question11">Yapmamanız gerektiğini bildiğiniz halde madde almak veya bir faaliyete katılmak için risk aldığınız oluyor mu? Belki de ihtiyacınız olan rahatlamayı elde etmek için askıya alınmış bir ehliyetle araba kullanmak veya işten kaçmak da buna dahildir?</string>
+    <string-array name="ga_test3_question11_options">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <!--TEST3 SON-->
+</resources>

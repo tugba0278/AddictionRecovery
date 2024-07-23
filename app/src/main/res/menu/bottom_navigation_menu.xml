@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/home_tab"
+            android:icon="@drawable/home"
+            android:title="@string/anasayfa"
+
+           />
+        <item
+            android:id="@+id/questions_tab"
+            android:icon="@drawable/question_mark"
+            android:title="@string/sorular"
+
+            />
+        <item
+            android:id="@+id/videos_tab"
+            android:icon="@drawable/videos"
+            android:title="@string/videolar"
+
+            />
+        <item
+            android:id="@+id/support_tab"
+            android:icon="@drawable/destek"
+            android:title="@string/destek"
+
+            />
+</menu>

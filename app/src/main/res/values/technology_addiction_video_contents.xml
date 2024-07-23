@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="technology_addiction_video_titles">
+        <item>"İnternet ve Ekran Bağımlılığından Kurtulma Yöntemleri"</item>
+        <item>"Bilinçli Teknoloji Kullanımı | Teknolojiyi nasıl bilinçli kullanırım?"</item>
+        <item>"İnternet Bağımlılığı Bir Hastalık mı?"</item>
+        <item>"Oyun Bağımlılığı"</item>
+        <item>"Is technology making life better or worse?"</item>
+        <item>"Çocuklar Ekran/Tablet Bağımlılığından Nasıl Kurtulur? - Gelecek Onların"</item>
+        <item>"İnternette Doğru ve Etkili Arama Yapmak"</item>
+        <item>"Are You Addicted to the Internet?"</item>
+        <item>"Çocuklarda internet bağımlılığı..."</item>
+        <item>"SON NESİL. teknoloji bağımlılığı kısa film"</item>
+        <item>"Teknoloji Bağımlılığının Adımları ve Teknolojinin Doğru Kullanımı"</item>
+        <item>"Tech's Impact On Young Brains | America Inside Out with Katie Couric"</item>
+        <item>"Social Media addiction - Short Movie"</item>
+        <item>"Bilinçli Teknoloji Kullanımı, Sosyal Medya Güvenliği, İnternetteki Tuzaklar."</item>
+        <item>"Dijital Tayfa İle Güvenli İnternet"</item>
+    </string-array>
+
+    <string-array name="technology_addiction_video_ids">
+        <item>"SvEZfqzSO1w"</item>
+        <item>"-oV3vXtsaf4"</item>
+        <item>"6Vl6LRO_hGU"</item>
+        <item>"IahOQPQxSlw"</item>
+        <item>"7rbDIx69ORE"</item>
+        <item>"TU-vwiOBcBg"</item>
+        <item>"8cqQnBIo_BI"</item>
+        <item>"iOUsiXgtHGQ"</item>
+        <item>"TvBzXcLB9vQ"</item>
+        <item>"KoPXztcagcU"</item>
+        <item>"kS2uFjiN7ns"</item>
+        <item>"cK6p8VyyvCs"</item>
+        <item>"QugooaNRnsk"</item>
+        <item>"siverMxDaBo"</item>
+        <item>"bp_ntZUsSkQ"</item>
+    </string-array>
+
+    <string-array name="technology_addiction_video_descriptions">
+        <item>"İnternet ve ekran bağımlılığından kurtulma yöntemlerini örneklerle pekiştiren bir animasyon videosu"</item>
+        <item>"Teknolojiyi bilinçli bir şekilde nasıl kullanabileceğinizi ve teknolojiyi kullanırken güvenlikte nelere dikkat etmemiz gerektiğini vurgular."</item>
+        <item>"İnternet bağımlılığının bir hastalık olup olmadığını tartışan bu içerikle kendimizin ne durumda olduğunu karşılaştırabiliriz."</item>
+        <item>"Çocuklar üzerinde oyun bağımlılığına odaklanmayı vurgular.Çocuklarımızı bağımlılıktan kurtaralım."</item>
+        <item>"Teknolojinin hayatı nasıl etkilediğini sorgulayan aynı zamanda bizleri düşündürmeyi ve harekete geçirmeyi amaçlayan bir video"</item>
+        <item>"Çocuk Gelişim Uzmanı Prof. Dr. Nilgün Sarp günümüz anne babaların ortak sorunu olan ekran/tablet bağımlılığı hakkında ebeveynlere neler yapmaları gerektiğini tüm detayları ile anlatıyor."</item>
+        <item>"İnternet üzerinde doğru arama yapma taktikleri ile daha kısa zamanda hedefe ulaşılabilir."</item>
+        <item>"İnternet bağımlılığının insan üzerindeki etkilerini bu içerikte görebilirsiniz."</item>
+        <item>"Çocuklarda görülen internet bağımlılığını bir de Dr.Ferhat Aslan'dan dinleyelim."</item>
+        <item>"Son nesil teknoloji bağımlılığına odaklanan bu kısa filmi izlemeye ne dersiniz?"</item>
+        <item>"Yeşilay tarafından geliştirilen teknoloji, bağımlılıklar ile sağlıklı yaşam modüllerinden oluşan toplumun tamamını bu konularda bilgilendirmeyi ve farkındalıklarını arttırmayı amaçlayan bir programıdır."</item>
+        <item>"Dr.Larry Rosen teknolojinin genç beyinlere etkisini anlatıyor."</item>
+        <item>"Sistemin nasıl çöktüğünü anlatan çok anlamlı kısa film. Teknolojiyi kötüye kullanarak hayatlarımızı nasıl mahvediyoruz."</item>
+        <item>"Bilinçli teknoloji kullanımını ve internetin tehlikelerini ele alan bir video"</item>
+        <item>"Güvenli internet kullanımını Dijital Tayfa'dan öğrenelim. Çocuklarımıza izlettirmeyi unutmayalım."</item>
+    </string-array>
+</resources>

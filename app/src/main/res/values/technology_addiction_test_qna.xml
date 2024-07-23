@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="question_1">"Arkadaşlarınız ve/veya ailenizle yemekteyken gözünüz hep cep telefonunuzda mı?"</string>
+        <string-array name="options_1">
+            <item>"Evet"</item>
+            <item>"Çoğunlukla"</item>
+            <item>"Nadiren"</item>
+            <item>"Hayır"</item>
+        </string-array>
+
+        <string name="question_2">"Kültürel etkinlik ya da yüzyüze eğlence yerine cep telefonu/tablet/bilgisayar ile vakit geçirmeyi mi tercih ediyorsunuz?"</string>
+        <string-array name="options_2">
+            <item>"Evet"</item>
+            <item>"Genellikle"</item>
+            <item>"Bazen"</item>
+            <item>"Hayır"</item>
+        </string-array>
+
+    <string name="question_3">"Kısa bir süre diye başlayıp cep telefonu/televizyon/ tablet/bilgisayarda saatlerce vakit harcıyor musunuz?"</string>
+    <string-array name="options_3">
+        <item>"Evet"</item>
+        <item>"Çoğunlukla"</item>
+        <item>"Nadiren"</item>
+        <item>"Hayır"</item>
+    </string-array>
+
+    <string name="question_4">"Cep telefonunuz yanınızda olmadığında kendinizi yalnız, çaresiz ya da boşlukta hissediyor musunuz?"</string>
+    <string-array name="options_4">
+        <item>"Evet"</item>
+        <item>"Genellikle"</item>
+        <item>"Bazen"</item>
+        <item>"Hayır"</item>
+    </string-array>
+
+    <string name="question_5">"Güzel bir bahar günü için aşağıdaki hangi öneri sizin için daha cazip?"</string>
+    <string-array name="options_5">
+        <item>"Sosyal medyada takılmak"</item>
+        <item>"Arkadaşlarınızla play station oynamak"</item>
+        <item>"Cep telefonundan müzik dinleyerek dışarıda yürümek"</item>
+        <item>"Dışarıda yürüyüş yapmak"</item>
+    </string-array>
+
+    <string name="question_6">"Yüz yüze iletişim kurmakta giderek zorlanırken sanal ortamda kendinizi daha rahat hissediyor musunuz?"</string>
+    <string-array name="options_6">
+        <item>"Evet"</item>
+        <item>"Çoğunlukla"</item>
+        <item>"Nadiren"</item>
+        <item>"Hayır"</item>
+    </string-array>
+
+    <string name="question_7">" Internete bağlanamadığınızda hangi sıklıkta kendinizi karamsar ve sinirli hissedip, internete bağlandığınızda bu şikayetlerinizin hemen geçtiğini görürsünüz?"</string>
+    <string-array name="options_7">
+        <item>"Her zaman"</item>
+        <item>"Sıklıkla"</item>
+        <item>"Bazen"</item>
+        <item>"Hiçbir zaman"</item>
+    </string-array>
+
+    <string name="question_8">"Hangi sıklıkta internette harcadığınız zamanı azaltmak için uğraşırsınız ve başarısız olursunuz?"</string>
+    <string-array name="options_8">
+        <item>"Her zaman"</item>
+        <item>"Sıklıkla"</item>
+        <item>"Nadiren"</item>
+        <item>"Hiçbir zaman"</item>
+    </string-array>
+
+    <string name="question_9">"Okul veya iş ile ilgili çalışmalarınız hangi sıklıkta internette harcadığınız süre yüzünden zarar görmektedir?"</string>
+    <string-array name="options_9">
+        <item>"Her zaman"</item>
+        <item>"Sıklıkla"</item>
+        <item>"Bazen"</item>
+        <item>"Hiçbir zaman"</item>
+    </string-array>
+
+    <string name="question_10">"Birileri siz internette iken canınızı sıkarsa hangi sıklıkta onları tersler, onlara bağırır ve öfkeli davranırsınız?"</string>
+    <string-array name="options_10">
+        <item>"Her zaman"</item>
+        <item>"Sıklıkla"</item>
+        <item>"Bazen"</item>
+        <item>"Hiçbir zaman"</item>
+    </string-array>
+
+    <string-array name="yes_no_questions">
+        <item>Tuvalete diz üstü bilgisayar, tablet veya telefonla girerim.</item>
+        <item>Yemeğimi çoğu zaman bilgisayar ve televizyon karşısında yerim.</item>
+        <item>Sosyal medya hesaplarımı en  az saat başı kontrol ederim.</item>
+        <item>Gittiğim yerlerde Wi-fi çekmiyorsa konumumu değiştiririm.</item>
+        <item>Internetsiz vakit geçirme fikri beni ürkütüyor.</item>
+        <item>Yakınımdaki mağazadan alacağım ürünleri internetten aldığım olmuştur.</item>
+        <item>Internette olmak için kaçırdığım veya geç kaldığım önemli bir etkinlik veya randevum olmuştur.</item>
+        <item>Bilgisayar veya akıllı telefonlarıma vakit ayırdığım için gece yatmam gereken saatten daha geç yatarım.</item>
+        <item>Bir mesajı klavye kullanarak el yazımdan daha hızlı yazabilirim.</item>
+        <item>Internet aracılığı ile yeni arkadaşlıklar kuruyor musunuz?</item>
+        <item>Hayatınızdaki diğer kişiler, internete ayırdığınız zamanın fazlalığından şikayet ediyor mu?</item>
+        <item>Internet nedeniyle gece geç vakitlere kadar oturup uykusuz kalıyor musunuz?</item>
+    </string-array>
+</resources>

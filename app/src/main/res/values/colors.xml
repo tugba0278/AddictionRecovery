@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="login_buttons">#50623A</color>
+    <color name="toolbar_background">#EFBC9B</color>
+    <color name="app_pages_bg">#FBF3D5</color>
+    <color name="alt_toolbar_icon_color">#9B4444</color>
+
+    <color name="general_addiction_bg">#BBE2EC</color>
+    <color name="substance_addiction_bg">#9AD0C2</color>
+    <color name="tech_addiction_bg">#9290C3</color>
+    <color name="alcohol_addicton_bg">#B47B84</color>
+
+    <color name="general_addiction_title_bg">#40A2E3</color>
+    <color name="general_addiction_title_color">#11009E</color>
+    <color name="general_addiction_test_bg">#ACE2E1</color>
+    <color name="general_addiction_test_text">#378CE7</color>
+
+    <color name="subs_addiction_content_title_bg">#77AAAB</color>
+    <color name="subs_addiction_content_text_bg">#D7FCFD</color>
+    <color name="subs_addiction_homepage_txt_color">#003638</color>
+    <color name="subs_addiction_symptoms_bg">#7F9F80</color>
+    <color name="subs_addiction_test_bg">#BEF0CB</color>
+    <color name="subs_addiction_test_text_color">#66726A</color>
+    <color name="subs_addiction_questions_title_color">#AFC7B6</color>
+
+    <color name="tech_addiction_content_title_bg">#C9A7EB</color>
+    <color name="tech_addiction_content_text_bg">#EDE4FF</color>
+    <color name="tech_addiction_homepage_txt_color">#57375D</color>
+    <color name="tech_addiction_grid_bg_color">#DBC4F0</color>
+    <color name="tech_addiction_grid_text_color">#916DB3</color>
+    <color name="tech_addiction_question_answer_color">#57375D</color>
+    <color name="tech_addiction_question_title_color">#66726A</color>
+    <color name="tech_addiction_video_bg_color">#BC7FCD</color>
+    <color name="tech_addiction_test_option_color">#AD88C6</color>#BEADFA
+    <color name="tech_addiction_test_button_color">#BEADFA</color>
+
+    <color name="alcohol_addiction_title_bg">#B47B84</color>
+    <color name="alcohol_addiction_title_color">#A0153E</color>
+    <color name="alcohol_addiction_content_bg">#CAA6A6</color>
+    <color name="alcohol_addiction_content_color">#5D0E41</color>
+    <color name="alcohol_addiction_test_grid_bg">#FFB8B8</color>
+    <color name="alcohol_addiction_test_content_color">#AF2655</color>
+    <color name="alcohol_addiction_warning_txt_color">#B31312</color>
+    <color name="alcohol_addiction_text_button_color">#A91D3A</color>
+    <color name="alcohol_addiction_test_button_color">#FFC3C3</color>
+    <color name="subs_add_question_color">#1A4D2E</color>
+    <color name="subs_add_options_color">#4F6F52</color>
+    <color name="subs_add_test_button_text_color">#135D66</color>
+
+
+</resources>

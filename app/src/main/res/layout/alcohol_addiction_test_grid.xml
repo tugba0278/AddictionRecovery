@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="match_parent"
+    android:background="@drawable/ga_grid_bg"
+    android:backgroundTint="@color/alcohol_addiction_test_grid_bg"
+    android:drawableTop="@raw/puzzle"
+
+    android:padding="10dp"
+    android:drawablePadding="10dp"
+    android:textAppearance="@style/alcohol_addiction_test_grid_style"
+    android:text="Lorem"
+    android:textAlignment="center"
+
+
+    >
+
+</TextView>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="addiction_support_organizations">
+        <item>
+           Yeşilay Cemiyeti  \n Web sitesi:
+            <a href="https://www.yesilay.org.tr/tr/" >https://www.yesilay.org.tr/tr</a>
+            \n Telefon Numarası: 115
+
+        </item>
+        <item>
+             Sağlık Bakanlığı  \n Web sitesi:
+            <a href="https://www.saglik.gov.tr/" >https://www.saglik.gov.tr/</a>
+            \n Telefon Numarası: 171
+        </item>
+        <item>
+            Bir Hayata Dokun Derneği \n Web sitesi:
+            <a href="https://www.birhayatadokundernegi.com/bir-umut ol/" >https://www.birhayatadokundernegi.com/bir-umut-ol</a>
+            \n Telefon Numarası: +90 538 380 59 93
+        </item>
+        <item>
+            BAYDER  \n Web sitesi:
+            <a href="https://bayder.com.tr/" >https://bayder.com.tr</a>
+            \n Telefon Numarası: +90 212 659 48 29
+        </item>
+        <item>
+            NPAMATEM Bağımlılık Merkezi \n Web sitesi:
+            <a href="https://npistanbul.com/amatem/alkol-bagimliligi-servis-hizmetleri" >https://npistanbul.com/amatem/alkol-bagimliligi-servis-hizmetleri</a>
+            \n Telefon Numarası:  +90 216 633 0 633
+        </item>
+        <item>
+            İHH İnsani Yardım Vakfı  \n Web sitesi:
+            <a href=" https://ihh.org.tr/" > https://ihh.org.tr</a>
+            \n Telefon Numarası: +90 212 631 21 21
+        </item>
+    </string-array>
+
+</resources>
