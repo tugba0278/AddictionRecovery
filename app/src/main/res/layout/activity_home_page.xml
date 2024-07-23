@@ -7,99 +7,105 @@
     android:layout_height="match_parent"
     tools:context=".HomePage"
     android:id="@+id/my_drawer_layout"
-    android:background="#FBF3D5"
+    android:background="@color/app_pages_bg"
     android:orientation="vertical">
+
   <RelativeLayout
       android:id="@+id/homepage_layout"
       android:layout_width="match_parent"
       android:layout_height="match_parent">
+
     <include
+        android:id="@+id/include"
         layout="@layout/page_toolbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+
+
 
     <TextView
         android:id="@+id/general_addiction_btn"
         android:layout_width="300dp"
         android:layout_height="80dp"
+        android:layout_below="@+id/include"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
         android:background="@drawable/homepage_buttons"
+        android:clickable="true"
         android:drawableStart="@raw/cage"
         android:drawablePadding="30dp"
         android:gravity="fill_vertical"
         android:paddingLeft="30dp"
         android:text="Bağımlılık"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="150dp"
         android:textColor="#000000"
         android:textSize="18sp"
-        android:textStyle="normal"
-        android:clickable="true"
-        />
-
+        android:textStyle="normal" />
     <TextView
         android:id="@+id/drug_addiction_btn"
         android:layout_width="300dp"
         android:layout_height="80dp"
+        android:layout_below="@+id/general_addiction_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp"
         android:background="@drawable/homepage_buttons"
         android:backgroundTint="@color/substance_addiction_bg"
+        android:clickable="true"
         android:drawableLeft="@raw/overdose"
         android:drawablePadding="30dp"
         android:gravity="fill_vertical"
         android:paddingLeft="30dp"
         android:text="Madde Bağımlılığı"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="275dp"
         android:textColor="#000000"
         android:textSize="18sp"
-        android:textStyle="normal"
-        android:clickable="true"
-        />
-
+        android:textStyle="normal" />
     <TextView
         android:id="@+id/tech_addiction_btn"
         android:layout_width="300dp"
         android:layout_height="80dp"
+        android:layout_below="@+id/drug_addiction_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp"
         android:background="@drawable/homepage_buttons"
         android:backgroundTint="@color/tech_addiction_bg"
+        android:clickable="true"
         android:drawableLeft="@raw/smartphone"
         android:drawablePadding="20dp"
-
         android:gravity="fill_vertical"
         android:paddingLeft="30dp"
         android:text="Teknoloji Bağımlılığı"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="400dp"
         android:textColor="#000000"
         android:textSize="18sp"
-        android:textStyle="normal"
-        android:clickable="true"
-        />
-
+        android:textStyle="normal" />
     <TextView
         android:id="@+id/alcohol_addiction_btn"
         android:layout_width="300dp"
         android:layout_height="80dp"
+        android:layout_below="@+id/tech_addiction_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp"
         android:background="@drawable/homepage_buttons"
         android:backgroundTint="@color/alcohol_addicton_bg"
+        android:clickable="true"
         android:drawableLeft="@raw/addiction"
         android:drawablePadding="20dp"
-
         android:gravity="fill_vertical"
         android:paddingLeft="30dp"
         android:text="Alkol Bağımlılığı"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="525dp"
-        android:textSize="18sp"
-        android:textStyle="normal"
         android:textColor="#000000"
-        android:clickable="true"
-       />
-
+        android:textSize="18sp"
+        android:textStyle="normal" />
+    <include
+        layout="@layout/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:layout_below="@+id/include"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:visibility="invisible" />
 
   </RelativeLayout>
-  <include layout="@layout/nav_view"
-      android:visibility="invisible"/>
-
-
-
 </androidx.drawerlayout.widget.DrawerLayout>

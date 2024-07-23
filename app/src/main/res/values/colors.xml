@@ -3,9 +3,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="login_buttons">#50623A</color>
-    <color name="toolbar_background">#EFBC9B</color>
+    <color name="toolbar_background">#DED0B6</color>
     <color name="app_pages_bg">#FBF3D5</color>
-    <color name="alt_toolbar_icon_color">#9B4444</color>
+    <color name="alt_toolbar_icon_color">#776B5D</color>
+    <color name="nav_bg">#DED0B6</color>
 
     <color name="general_addiction_bg">#BBE2EC</color>
     <color name="substance_addiction_bg">#9AD0C2</color>
@@ -24,6 +25,9 @@
     <color name="subs_addiction_test_bg">#BEF0CB</color>
     <color name="subs_addiction_test_text_color">#66726A</color>
     <color name="subs_addiction_questions_title_color">#AFC7B6</color>
+    <color name="subs_add_question_color">#1A4D2E</color>
+    <color name="subs_add_options_color">#4F6F52</color>
+    <color name="subs_add_test_button_text_color">#135D66</color>
 
     <color name="tech_addiction_content_title_bg">#C9A7EB</color>
     <color name="tech_addiction_content_text_bg">#EDE4FF</color>
@@ -45,9 +49,5 @@
     <color name="alcohol_addiction_warning_txt_color">#B31312</color>
     <color name="alcohol_addiction_text_button_color">#A91D3A</color>
     <color name="alcohol_addiction_test_button_color">#FFC3C3</color>
-    <color name="subs_add_question_color">#1A4D2E</color>
-    <color name="subs_add_options_color">#4F6F52</color>
-    <color name="subs_add_test_button_text_color">#135D66</color>
-
 
 </resources>

@@ -11,7 +11,6 @@
     <style name="welcome_speech_style">
         <item name="android:textSize">18sp</item>
         <item name="android:textColor">#50623A</item>
-
     </style>
 
     <style name="loginPageButtons">
@@ -29,6 +28,11 @@
         <item name="android:textStyle">bold</item>
     </style>
 
+    <style name="NavigationMenuTextStyle" >
+        <item name="android:paddingEnd">25dp</item> <!-- Sol boşluk -->
+        <item name="android:textSize">18sp</item> <!-- Yazı fontu büyüklüğü -->
+    </style>
+
     <style name="feedback_style">
         <item name="android:textSize">20sp</item>
         <item name="android:textColor">@color/alt_toolbar_icon_color</item>
@@ -39,14 +43,12 @@
     <style name="general_addiction_content_style1">
         <item name="android:textSize">16sp</item>
         <item name="android:textColor">@color/general_addiction_title_color</item>
-
     </style>
 
     <style name="general_addiction_test_grid_style">
         <item name="android:textColor">@color/general_addiction_test_text</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textSize">12sp</item>
-
     </style>
 
     <!--- Substance Addiction Styles -->

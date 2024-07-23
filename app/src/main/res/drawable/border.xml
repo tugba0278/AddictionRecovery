@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/app_pages_bg"/> <!-- Arka plan rengini buradan ayarlayabilirsiniz -->
+    <stroke
+        android:width="4dp"
+        android:color="@color/alt_toolbar_icon_color"/> <!-- Kenarlık rengini ve kalınlığını buradan ayarlayabilirsiniz -->
+</shape>

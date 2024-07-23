@@ -2,13 +2,15 @@
 <com.google.android.material.navigation.NavigationView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/nav_view"
-    android:layout_width="250dp"
+    android:layout_width="240dp"
     android:layout_height="580dp"
     android:layout_marginTop="65dp"
     android:layout_marginLeft="150dp"
     app:menu="@menu/drawer_menu"
     app:headerLayout="@layout/drawer_header"
-    android:backgroundTint="#FBF3D5"
-    app:itemTextColor="#9B4444">
+    android:backgroundTint="@color/nav_bg"
+    android:background="@drawable/border"
+    app:itemTextColor="@color/alt_toolbar_icon_color"
+    app:itemTextAppearance="@style/NavigationMenuTextStyle">
 
 </com.google.android.material.navigation.NavigationView>
